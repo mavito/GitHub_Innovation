@@ -1,0 +1,5000 @@
+Alphabet (NAS: GOOGL)
+Microsoft (NAS: MSFT)
+Meta Platforms (NAS: META)
+Amazon Web Services
+Nvidia (NAS: NVDA)
+Wells Fargo (NYS: WFC)
+Ford Pro
+Microsoft Azure
+Payroc
+Temu (Internet Retail)
+Oracle (NYS: ORCL)
+Cisco Systems (NAS: CSCO)
+Pace-O-Matic
+Warner Bros. Entertainment
+United Services Automobile Association
+Uber (NYS: UBER)
+Google Cloud Platform
+Vibran
+YumvY
+Instagram
+YouTube
+Qualcomm (NAS: QCOM)
+Netflix (NAS: NFLX)
+Salesforce (NYS: CRM)
+Social Commerce Ventures
+Visa (NYS: V)
+PayPal Holdings (NAS: PYPL)
+Android Research
+Flex
+Block (NYS: SQ)
+Catamaran
+Adobe (NAS: ADBE)
+Fiserv (NYS: FI)
+Percy.ai
+Tzell Travel Group
+Indix
+New Era ADR
+The Charles Schwab (NYS: SCHW)
+Emerson Automation Solutions (Daniel Legacy Compact Prover product line)
+Tiktok (US Operations)
+Emerson Electric (NYS: EMR)
+Kidde
+Intuit (NAS: INTU)
+OpenTable
+Enterprise Systems Group
+Ineo (Software)
+Swizznet
+Toppan Merrill
+Triple Whale
+Immediately
+VMware
+Matrix Solutions
+Flutter Entertainment (NYS: FLUT)
+Alain Pinel Realtors
+Rebate.ai
+Major League Baseball
+OpenAI
+Chewy (NYS: CHWY)
+Hulu
+Prospectus Central
+Carahsoft Technology
+Broadcom (Enterprise Consulting Division)
+Games.com
+ServiceNow (NYS: NOW)
+KLA (NAS: KLAC)
+DoorDash (NAS: DASH)
+Fidelity National Information Services (NYS: FIS)
+Global Payments (NYS: GPN)
+CBUSA
+Jane Street
+Layer0
+SellersFi
+Primark
+Tyco International
+First Data
+Concentrix (IT Services & Consulting) (NAS: CNXC)
+Florida Lottery
+AccessData Group
+Interactive Brokers (NAS: IBKR)
+The Mountain View
+Activision Blizzard
+Palo Alto Networks (NAS: PANW)
+CoreWeave
+Fanatics
+Workday (NAS: WDAY)
+LinkedIn
+Estimize
+Electronic Arts (NAS: EA)
+Science Applications International (NAS: SAIC)
+Niantic
+VividLogic
+Roper Technologies (NAS: ROP)
+Arista Networks (NYS: ANET)
+Click Funnels
+Synopsys (NAS: SNPS)
+Truity Psyc
+Nordex International
+HID Global
+CME Group (NAS: CME)
+Epic Games
+FanDuel
+Prokeep
+WireBuzz
+MotoHawk Control Solutions
+Peace Software
+Autodesk (NAS: ADSK)
+TD Ameritrade
+Wolters Kluwer ELM Solutions
+SS&C Technologies (NAS: SSNC)
+Rainshine
+Equifax (NYS: EFX)
+Block Block
+Rockstar Games
+Virginia Lottery
+Nitech
+Lyft (NAS: LYFT)
+Take-Two Interactive Software (NAS: TTWO)
+peloton digital
+Compass (Application Software) (NYS: COMP)
+Coinbase Global (NAS: COIN)
+X Corp.
+Snap (NYS: SNAP)
+CSRA
+Keysight Technologies (NYS: KEYS)
+Acrisure
+Advisors Excel
+International Business Machines (low-end server business)
+JetClosing
+WHI Solutions
+Ambit Asset Finance
+Amdocs (NAS: DOX)
+Opendoor Technologies (NAS: OPEN)
+GlobalTranz Enterprises
+Smart Toy
+ResMed (NYS: RMD)
+Genpact (NYS: G)
+Toast (NYS: TOST)
+Zebra Technologies (NAS: ZBRA)
+Covetrus
+DraftKings (NAS: DKNG)
+Zoom Video Communications (NAS: ZM)
+Otto
+Blockmetrix
+The Toro (NYS: TTC)
+Vistry
+eXp World Holdings (NAS: EXPI)
+Cadence Design Systems (NAS: CDNS)
+Twilio (NYS: TWLO)
+Hasbro (NAS: HAS)
+Valve Software
+NCR Atleos (NYS: NATL)
+AppLovin (NAS: APP)
+Splunk
+Western Union (NYS: WU)
+Worldpay
+Total System Services
+TransUnion (NYS: TRU)
+Ciena (NYS: CIEN)
+CA Technologies
+Avamar
+hardy world
+Machine Zone
+MarginEdge
+Akamai Technologies (NAS: AKAM)
+Euronet Worldwide (NAS: EEFT)
+Roku (NAS: ROKU)
+Corpay (NYS: CPAY)
+Gen Digital (NAS: GEN)
+Jackpot.com
+Computer Design & Integration
+CyntrX
+Adex
+TheXPlace
+Energy Solutions International
+Ncr Voyix (NYS: VYX)
+The Karcher Group
+Scripps Networks Interactive
+CrowdStrike Holdings (NAS: CRWD)
+Baldwin Technology
+Partners (Real Estate Services (B2C))
+SamCart
+Match Group (NAS: MTCH)
+Red Hat
+Pinterest (NYS: PINS)
+Wily Technology
+Cleancio
+Infor Global Solutions
+MOBI Wireless Management
+Roblox (NYS: RBLX)
+Cloud Software Group
+Sensor Tower
+UKG
+Information Intellect
+Lexmark International
+Instacart (NAS: CART)
+DrÃ¤gerwerk AG
+Snowflake (NYS: SNOW)
+Saatchi Art
+ScanSource (NAS: SCSC)
+Yuga Labs
+Dematic Group
+Honeywell Process Solutions
+SAS Institute
+LNW Gaming (NAS: LNW)
+Pure Storage (NYS: PSTG)
+Sabre Corporation (NAS: SABR)
+AutoFi
+ClickBank
+Flowhub
+Inovance
+Next Jump
+Twitch Interactive
+Ultimate Software Group
+Workforce Logiq
+Yardi Systems
+Synertrade
+Shift4 Payments (NYS: FOUR)
+Rittal (Chicago)
+Heartland Payment Systems
+E*TRADE
+DocuSign (NAS: DOCU)
+FIS Data Systems
+NuFX
+Zynga
+Nextracker (NAS: NXT)
+Avaya
+Sage Intacct
+Aretec
+Archibus
+PeopleSoft
+Mango Languages
+WEX (NYS: WEX)
+Palantir Technologies (NYS: PLTR)
+Dresser-Rand Group
+Emerging Travel Group
+Teladoc Health (NYS: TDOC)
+Dropbox (NAS: DBX)
+Datadog (NAS: DDOG)
+Affirm (NAS: AFRM)
+HubSpot (NYS: HUBS)
+Audible
+Kum & Go
+Persado
+Virtual Properties Realty
+MTX Group (US)
+SoFi (NAS: SOFI)
+Ansys (NAS: ANSS)
+Okta (NAS: OKTA)
+Progressive Leasing (NYS: PRG)
+Robinhood (NAS: HOOD)
+Databricks
+Thorntons (Louisville)
+Dun & Bradstreet (NYS: DNB)
+RingCentral (NYS: RNG)
+Payzer
+Salient Systems
+The Trade Desk (NAS: TTD)
+Shape Security
+Arrive Logistics
+Linc (Business/Productivity Software)
+O'Neal Steel
+Symantec (Enterprise Business)
+Village Properties
+Westcorporation
+PTC (NAS: PTC)
+Nirvana Health
+Real Labs Technology
+Concord EFS
+Morningstar (NAS: MORN)
+Electronics Boutique Holdings
+FactSet Research Systems (NYS: FDS)
+Grab (Restaurants, Hotels and Leisure)
+ePlus (NAS: PLUS)
+Andrew
+Zscaler (NAS: ZS)
+Zillow Group (NAS: ZG)
+Nutanix (NAS: NTNX)
+Deluxe (NYS: DLX)
+Veritas Technologies
+Stride (Herndon) (NYS: LRN)
+LexisNexis Group
+Tyler Technologies (NYS: TYL)
+SEI Investments (NAS: SEIC)
+WorkTango
+Grubhub
+AffiniPay
+BetMGM
+BlueCart
+BMC Software
+Carolina Properties - Valerie M Wrobel
+EchoSign
+FireEye (Products Business)
+Genesys
+GitHub
+JetSmarter
+Kaseya
+Keller Williams Realty Atlantic Partners
+Leaf Trade
+Luxonis
+MetTel
+New Constructs
+OrderMyGear
+Pax8
+Powerade
+RepTrak
+Sierra Nevada
+SynXis
+Trellix
+Vendini
+Womply
+MorphoTrak
+Paetec Holding
+Unity Software (NYS: U)
+Axon() (NAS: AXON)
+McAfee
+Software Spectrum
+Tinder
+Doppler
+Centah
+M. Arthur Gensler Jr. & Associates
+Paycom (NYS: PAYC)
+MongoDB (NAS: MDB)
+TripAdvisor (NAS: TRIP)
+Utah Tech Labs
+Vorwerk, LLC
+Teradata (NYS: TDC)
+Bakkt Holdings (NYS: BKKT)
+INDUS (Information Technology)
+CDK Global
+Scopely
+National Instruments
+Altera
+Fair Isaac (NYS: FICO)
+Metavante
+Stanley Security
+Katerra
+Pluto TV
+Rick Case
+Taboola (NAS: TBLA)
+Dayforce (Business/Productivity Software) (NYS: DAY)
+Informatica (NYS: INFA)
+Orion Advisor Solutions
+Tradeweb Markets (NAS: TW)
+ACI Worldwide (NAS: ACIW)
+Agilysys KeyLink Systems Group
+Credit Karma
+EveryDay Labs
+Hydro Systems
+Openlink Financial
+VeriFone
+YP Holdings
+FuboTV (NYS: FUBO)
+Zendesk
+Green Dot (NYS: GDOT)
+Cloudflare (NYS: NET)
+Dynatrace (NYS: DT)
+Wisconsin Public Service
+Circle (Financial Services)
+Illinoislottery
+Laureate Education (NAS: LAUR)
+BEA Systems
+Qualtrics
+OVS Group
+C1
+Pixia
+Black Knight
+Chime
+Fortna
+GrubMarket
+Kraken
+LifeScan
+M.C. Dean
+Omnissa
+PayBito
+Veeam
+Cubic
+Pegasystems (NAS: PEGA)
+Cengage Learning (GREY: CNGO)
+Altafiber
+Vonage Holdings
+Siebel Systems
+MICROS Systems
+Danger Close Games
+Paylocity (NAS: PCTY)
+Amelia
+AVI Systems
+Homevestorsfranchise
+Ivanti
+Scale AI
+SocialText
+Yelp (NYS: YELP)
+UiPath (NYS: PATH)
+Deacom
+Tingo ( Financial Services)
+Skyhigh Security
+Bill.com (NYS: BILL)
+YayPay
+MoneyGram
+Nuance Communications
+Envestnet (NYS: ENV)
+India Technopark Global Services
+Bentley Systems (NAS: BSY)
+LogMeIn
+ArcMail Technology
+Educational Testing Service
+Gree International
+Honeywell Life Sciences
+LastPass
+SecureAuth
+Solera Holdings
+Textron Systems
+The TEAM Companies
+TransFirst
+WEBTOON (NAS: WBTN)
+Virtusa
+RumbleOn (NAS: RMBL)
+Bally Technologies
+Virtu KCG Holdings
+Mentor Graphics
+Blue Yonder (Scottsdale)
+Justworks
+Headset
+PillPack
+The MathWorks
+VidAngel
+ZoomInfo Technologies (NAS: ZI)
+Tableau Software
+Sybase
+Saber Interactive
+Mercari (TKS: 4385)
+Angi (NAS: ANGI)
+Gem (Business/Productivity Software)
+Gopuff
+KeyAXS
+Openpath
+Openshift
+PLS Logistics Services
+Tapcart
+Theta Network
+WineDirect
+CSG International (NAS: CSGS)
+Remitly (NAS: RELY)
+RealPage
+Nelnet (NYS: NNI)
+UGS (Acquired by Siemens)
+Blackbaud (NAS: BLKB)
+Khoros
+Hewlett Packard Enterprise (Software division)
+Proofpoint
+Mercato
+Reddit (NYS: RDDT)
+Ecomdash
+SinglePlatform
+Procore Technologies (NYS: PCOR)
+Squarespace
+BetterHelp
+Corpsoft
+Environmental Systems Research Institute
+Gamer Sensei
+Sensormatic
+Topcon Positioning Systems
+HealthEquity (NAS: HQY)
+Real Broker (NAS: REAX)
+Samsara (NYS: IOT)
+Aspen Technology (NAS: AZPN)
+Arizonalottery
+Zome Energy Networks
+Bumble (NAS: BMBL)
+TSG Group
+Galvanize (Boulder)
+wates construction international
+OpenSea
+Box (IT Services) (NYS: BOX)
+Hotels.com
+Adams Keegan
+Mean Well Enterprises
+Snap One
+Root Insurance (NAS: ROOT)
+Smartsheet (NYS: SMAR)
+Extreme Networks (NAS: EXTR)
+CheckFree
+New BKH
+Manhattan Associates (NAS: MANH)
+Exela Technologies (NAS: XELA)
+TGS (Database Software) (OSL: TGS)
+Redfin (NAS: RDFN)
+Mullinax Ford South
+Five9 (NAS: FIVN)
+ActOne Group
+airSlate WorkFlow
+Anthropic
+AVI-SPL
+BeerBoard
+BrightDrop
+Cincinnati Bell Technology Solutions
+ClassWallet
+Coinme
+Commonwealth Markets
+Crunchyroll
+Dominion Harbor Group
+Driveway (Business/Productivity Software)
+Entrust (Network Management Software)
+EquipmentShare
+Fevo
+Figure Technology Solutions
+Grabango
+Greenplum Database
+Home Chef
+Homeward
+Hyland Software
+inDrive
+Internet Pipeline
+Kibeam
+Mercury (Computer Systems)
+Mesh Payments
+Mophie
+Navan
+Newsela
+O-Web Technologies
+OpsMx
+Oracle NetSuite
+OrderMark
+Pacaso
+Regal (Business/Productivity Software)
+SevenFifty
+SÃ³kn Engineering
+Sourceability
+StockX
+TD SYNNEX Public Sector
+Threekit
+ThriveCart
+Tubi
+UST Global
+VCE
+Vinli
+Voxi
+Warner Bros. Games
+Webconnex
+Wiz (Network Management Software)
+Yappa
+Zippia
+Electronics For Imaging
+Dealertrack
+Viavi Solutions (NAS: VIAV)
+Accordia Group
+Guidewire Software (NYS: GWRE)
+888casino
+Choxi
+Synaptics (NAS: SYNA)
+Slack
+TIBCO Software
+Alteryx
+New Relic
+Acima Credit
+Platinum Technology International
+Bertelsmann Education Group
+Dominion Enterprises
+Payoneer (NAS: PAYO)
+Ballance Agri-nutrients Ltd
+CCC Intelligent Solutions (NAS: CCCS)
+NWN Carousel
+GE Current
+Virtual Learning Technologies
+Agron
+Confluent (NAS: CFLT)
+Verint Systems (NAS: VRNT)
+Westwood Studios
+WhatsApp
+Cloudera
+Pomeroy
+Turo
+Carvoyant
+ICE Mortgage Technology
+Murney Associates LLC
+Workrise
+CommVault Systems (NAS: CVLT)
+Paxar
+EWise
+Quest Software
+Pagaya (NAS: PGY)
+Calix (NYS: CALX)
+DataXu
+Cognex (NAS: CGNX)
+Odyssey Logistics & Technology
+Tenable (NAS: TENB)
+ProQuest (Publishing)
+Thryv Holdings (NAS: THRY)
+Klaviyo (NYS: KVYO)
+Mitratech
+2U (PINX: TWOUQ)
+Rush Street Interactive (NYS: RSI)
+MYXfitness
+CyberArk Software (NAS: CYBR)
+BuyerZone
+Urchin Software
+Priority Technology Holdings (NAS: PRTH)
+Venmo
+Sensus USA
+International Bank of Commerce (NAS: IBOC)
+Investors Bank
+Foresight Management
+Rapid7 (NAS: RPD)
+Jobba Trade Technologies
+Hyperion Solutions (Software)
+Cornerstone OnDemand
+Returnly
+Cevo
+Lower
+Evertec (NYS: EVTC)
+Zeta Global Holdings (NYS: ZETA)
+MTS Systems
+Alltel Information Services
+Bolt System
+Coupa
+Hourglass
+iRobot (NAS: IRBT)
+MarketAxess Holdings (NAS: MKTX)
+Ribbon Communications (NAS: RBBN)
+Sterling Software
+Intermec
+Novell
+American First Finance
+CentroMotion
+ClixTV
+Fortra
+Lessen
+MySpace
+Rocket Software
+The Learning Company
+Zomentum
+Himalaya
+Avalara
+NetScout Systems (NAS: NTCT)
+Corporate Risk Holdings
+Centarro
+SolarWinds (NYS: SWI)
+Stamps.com
+Reagor Dykes Auto Group
+Everi Holdings (NYS: EVRI)
+Berkshire Health Systems
+Udemy (NAS: UDMY)
+Vivid Seats (NAS: SEAT)
+Sprinklr (NYS: CXM)
+LendingTree (NAS: TREE)
+Gloria Jeans Coffee Usa
+InterSystems
+Aventiv Technologies
+AppFolio (NAS: APPF)
+Upwork Global (NAS: UPWK)
+Mass Markets
+First Advantage (NAS: FA)
+Conam Inspection & Engineering Services
+DigitalOcean (NYS: DOCN)
+CIBC Bank USA
+Lawson Software
+Movista
+Angie's List
+Ellucian
+Environmental Solutions Group
+Excelitas Technologies
+Fluz
+Kaleris
+MarketLine Research
+Jeppesen Sanderson
+Cision US
+NetSpend
+SSA Global Technologies
+Pivotal Software
+PowerSchool Group
+iconectiv
+Ebix
+Clear Secure (NYS: YOU)
+Rubrik (NYS: RBRK)
+Avantax
+SciPlay
+Ripple Labs
+Aaron Kirman Partners
+SentinelOne (NYS: S)
+Progress Software (NAS: PRGS)
+BlueGrace Logistics
+Black Box (Acquired)
+Workiva (NYS: WK)
+WebMD
+Metrix Software
+Bandwidth (US) (NAS: BAND)
+Concur Technologies
+VIAAS
+Figma
+HERBL
+Intuit Mailchimp
+Perceptive Software
+Proof (Boston)
+Rocawear
+Shipium
+SMS Assist
+Tanium
+WordPerfect
+Paymentus (NYS: PAY)
+Datasite
+EverCommerce (NAS: EVCM)
+ConnectWise
+Duolingo (NAS: DUOL)
+Asana (NYS: ASAN)
+iPayment
+TF Holdings
+Aricent
+Freshworks (NAS: FRSH)
+Medidata Solutions
+Coursera (NYS: COUR)
+White Castle
+MediaAlpha (NYS: MAX)
+JDA Software Group (acquired 2012)
+CMTSU Liquidation
+LegalZoom (NAS: LZ)
+Paycor HCM (NAS: PYCR)
+GoToMeeting
+Chipper Cash
+Q2 Software (NYS: QTWO)
+Precisely (New York)
+Proactive Dealer Solutions
+Faber-castell Usa
+TiVo (Entertainment Software)
+Rubicon (PINX: RBTC)
+Qlik Technologies
+GitLab (NAS: GTLB)
+Magnite (NAS: MGNI)
+Craigslist
+LiveRamp
+Cvent
+Chorus.ai
+LifeLock
+Enlyte Group
+Optiv Security
+Rational Software
+Lionbridge
+Foundry Networks
+Altair Engineering (Business/Productivity Software) (NAS: ALTR)
+Datto
+Marketron Broadcast Solutions
+Vertex (Software Company) (NAS: VERX)
+BlackLine (NAS: BL)
+Websim
+DoubleVerify (NYS: DV)
+NerdWallet (NAS: NRDS)
+Gregory Poole Equipment
+Instructure (NYS: INST)
+Granular Business
+Anaplan
+Glitch
+Bitcoin Depot (NAS: BTM)
+GetGo
+HashiCorp (NAS: HCP)
+BlueJeans
+Oddity Tech (NAS: ODD)
+Knight Capital Group
+E2open (NYS: ETWO)
+Tabernus
+Dodge Data & Analytics
+Jamf (NAS: JAMF)
+eSports Hero
+Coalfire Systems
+SPS Commerce (NAS: SPSC)
+Diamond Multimedia Systems
+NH Sweepstakes Commission
+Arlington ISD
+Cemprus
+Collabera
+Compuware
+Defenders
+Discord
+Documentum
+Infiniti HR
+Lambda
+MarketZero
+Miro
+Novitex Enterprise Solutions
+Premium Retail Services
+RevolutionParts
+Sabre (Outsourcing Business)
+Systems Planning & Analysis
+Vertafore
+Blue Coat Systems
+Groomit
+Geokinetics
+Appian (NAS: APPN)
+W3rlds
+Intergraph
+Mozilla
+Qualys (NAS: QLYS)
+PowWow Mobile
+Alpha Technologies Services
+Idx Systems
+Adenza
+Check Into Cash
+Magic Eden
+Xpansiv
+Quark Group
+Trifacta
+Centric (Business/Productivity Software)
+GLG (New York)
+Inomax
+Premiere Global Services
+Logicon
+Shareable Social
+Carousel Industries of North America
+Core Scientific (NAS: CORZ)
+Efunds
+Upstart Holdings (NAS: UPST)
+NetFlip
+DOmedia
+Medusind Solutions
+Cohesity
+Bravado International
+Varonis Systems (NAS: VRNS)
+TransCore
+EVO Payments
+Arizona Cardinals
+Microsoft Advertising
+Archipelago Exchange
+Fastly (NYS: FSLY)
+Cascade Communications
+Glu Mobile
+Comtech Telecommunications (NAS: CMTL)
+Delfi
+SkillSoft (NYS: SKIL)
+Braze (NAS: BRZE)
+BitOGenius
+Deltek
+Tricentis
+Silicon Graphics
+Silicon Graphics International
+Intele Travel
+AKQA
+Medallia
+Golfzon(Golf)
+Mandiant
+Infogain
+OppFi (NYS: OPFI)
+GreenSky
+SAINT VINCENT HOSPITAL
+Messius
+SAP Ariba
+Tungsten Automation
+FiVerity
+Ibex (BPO/Outsource Services) (NAS: IBEX)
+WHC SuperShuttle
+Investment Technology Group
+Basis Technologies (Media and Information Services (B2B))
+Bottomline Technologies
+Lowkey (Social/Platform Software)
+nCino (NAS: NCNO)
+Hypercom
+Proto Labs (NYS: PRLB)
+Brinks Home Security
+Legent
+MoneyLion (NYS: ML)
+Aclara Technologies
+Acquco
+Agora Financial
+Alcott Hr
+Amex GBT Egencia
+Benecure
+Boomi
+Brex
+ClassPass
+Deel
+Deem
+Enverus
+Gametime
+Gusto
+Imperfect Foods
+Imperva
+Influential
+IT Solutions (General Electric)
+Komprise
+Kramer-Smilko
+Lanyon Solutions
+Measured (Network Management Software)
+Melita International (Acquired/Merged)
+MRI Software
+Nabis
+Netskope
+Raydia Food Group
+RealScout
+Roping.com
+Salient CRGT
+SeatGeek
+SVP Worldwide
+SymphonyAI
+Taco Comfort Solutions
+The Taylor Research & Consulting Group, Inc.
+Turn ( Media and Information Services)
+UE.Co
+Upgrade
+MBS Textbook Exchange
+ZipRecruiter (NYS: ZIP)
+TeleSign
+SailPoint Technologies
+GXS
+Digital Turbine (NAS: APPS)
+Marqeta (NAS: MQ)
+LLamasoft
+OSIsoft
+Ixia
+Verve (acquired)
+SurveyMonkey
+Neverware
+Venio Systems
+Constant Contact
+Beachbody (NYS: BODI)
+Flywire (NAS: FLYW)
+TV plus (Interactive TV)
+M7
+Blur (Financial Services)
+Mergent (Index Business)
+WRQ
+Adobe Connect
+Vesta Payment Solutions
+MicroStrategy (Business/Productivity Software) (NAS: MSTR)
+Big Fish Games
+Mood Media
+ehealth (NAS: EHTH)
+American Messaging Services
+O.C. Tanner Company
+NIC
+BlueCrest
+Great Minds
+Omnitracs
+ServiceTitan
+Structural Dynamics Research
+Onestream (NAS: OS)
+Iyuno
+CPI Card Group (NAS: PMTS)
+Voyager Digital (PINX: VYGVQ)
+N-able Technologies (NYS: NABL)
+Trello
+SafeNet
+Par Technology (NYS: PAR)
+Porch Group (NAS: PRCH)
+Everbridge
+Brooks-PRI Automation
+Conga
+Dovel Technologies
+IceWarp
+Retail Solutions
+United Data Technologies
+Netscape Communications
+Intapp (NAS: INTA)
+Metropolitan Airports Commission
+PagerDuty (NYS: PD)
+Merchants' Choice Payment Solutions
+Zuora (NYS: ZUO)
+Filenet
+satisfyd
+ChargePoint (NYS: CHPT)
+Applied Systems
+Azure Summit Technology
+HelloWoofy.com
+Schweitzer Engineering Laboratories
+MuleSoft
+Entrata
+Vungle
+CI&T (NYS: CINT)
+AvidXchange (NAS: AVDX)
+Genband
+christs church of rye services corporation
+Interactive Intelligence Group
+Classmates
+Silver Spring Networks
+Berbee Information Networks
+Clearwater Analytics Holdings (NYS: CWAN)
+Dendrite International
+Rocket Fuel
+Collective Health
+CompoSecure (NAS: CMPO)
+Vimeo (NAS: VMEO)
+Be The Match
+Deploy Solutions
+Epix
+Avid Technology
+Newgistics
+JFrog (NAS: FROG)
+Clearent
+SpotX (Media and Information Services (B2B))
+Carbonite
+WorkWave
+Edgio (PINX: EGIOQ)
+PlanetArt
+AppsFlyer
+Arrcus
+Avant (Chicago)
+Crestron Electronics
+Cubic Global Defense Services
+E.M.S. Technologies
+Everfox
+Forcepoint
+Globalization Partners
+Heyday
+Hinge
+Inmar
+InvestCloud
+jetaviva
+Jyve
+Olapic
+Planview
+Ring
+Seismic (San Diego)
+Symantec (Website Security Business)
+Wind River
+Transpara
+Yext (NYS: YEXT)
+BankSight
+Sprout Social (NAS: SPT)
+Pluralsight
+Verve (New York) (STO: VER)
+Dunbar Security Solutions
+Access Holdco Management
+Bluecore
+Fusion-io
+QXpress
+AGS (NYS: AGS)
+American Solutions for Business
+Cellebrite DI (NAS: CLBT)
+Adobe Marketo Engage
+Convoy (Road)
+DG FastChannel
+Carta
+ViaPath Technologies
+NDCHealth
+DataArt
+Automation Anywhere
+Attivo Networks
+Datek Online Holdings
+Wyse Technology
+Manufacturers' Inventory
+TravelClick
+Wonder (Other Restaurants, Hotels and Leisure)
+(Lasalle Team) Redkey Realty Leaders
+Asyst Technologies
+Barracuda Networks
+i3 Verticals (NAS: IIIV)
+BettrData.io
+Frontline Education
+Symphony Teleca
+TPS Logistics
+Flywheel Digital
+Stan (Business/Productivity Software)
+The Beauty Health Company (NAS: SKIN)
+InvoiceCloud
+System1 (NYS: SST)
+Alvaria
+TeleCommunication Systems
+ShipMonk
+the cassina group
+Harmonix Music Systems
+BroadSoft
+Goodleap
+iLearningEngines (NAS: AILE)
+Hello Baby
+Comscore (NAS: SCOR)
+Shoretel
+SEMrush (NYS: SEMR)
+Cerence (NAS: CRNC)
+Voy Media
+Ibotta (NYS: IBTA)
+Interactive Digital Solutions
+Consensus Cloud Solutions (NAS: CCSI)
+Assiduus
+Beepi
+Compass (California)
+ExactTarget
+Jean-georges Management
+Mediaocean
+Recorded Future
+Wasp Barcode Technologies
+Axway (PAR: AXW)
+FARO Technologies (NAS: FARO)
+SecureWorks (NAS: SCWX)
+Omniture
+Impinj (NAS: PI)
+Grains Research And Development Corporation
+CleanSpark (NAS: CLSK)
+Convergys Information Management Group
+Xandr
+GoFightLive
+BairesDev
+IBM Internet Security Systems
+Hal9
+Eventbrite (NYS: EB)
+Liquidity Services (NAS: LQDT)
+Rokt
+AmTrav
+Research Now Group
+Community Brands Intermediate
+Enel X
+DivvyCloud
+National Portrait Gallery
+Enterasys Networks
+BigCommerce (NAS: BIGC)
+Digital Insight
+Fairfield Geotechnologies
+Insurity
+Social Gaming Network (Acquired)
+Coinmine
+USCS International
+Life360 (NAS: LIF)
+Grid Dynamics (NAS: GDYN)
+SAP SuccessFactors
+Computer Services
+Hortonworks
+QAD
+Ramp
+Rocket Lab USA (NAS: RKLB)
+Avid Sports
+Caribou Coffee
+Cornerstone Systems
+Sportcraft
+C3.ai (NYS: AI)
+Transact Campus
+Cross Country Motor Club
+KLDiscovery (PINX: KLDI)
+Revry
+PROS Holdings (NYS: PRO)
+Fleetmatics Group
+YapStone
+Esme Learning
+Management Registry Inc.
+Moodys Insurance Solutions
+Payment Alliance International
+ForeScout Technologies
+Grindr (NYS: GRND)
+Westcon-Comstor (Americas Business)
+Intelligent Audit
+Domo (NAS: DOMO)
+Ask.com
+Bbq
+AvePoint (NAS: AVPT)
+Alkami (NAS: ALKT)
+NewDay USA
+Riot Platforms (NAS: RIOT)
+Amper Music
+Talend
+Stuzo
+REMAX (NYS: RMAX)
+MeridianLink (NYS: MLNK)
+Riskified (NYS: RSKD)
+KnowBe4
+Intermedia Cloud Communications
+Duck Creek Technologies
+MyFitnessPal
+Scientist.com
+DoubleClick
+GAIN Capital Forex.com UK
+Taleo
+Ping Identity
+Verio
+DropKey
+Realtime Electronic Payments (NAS: RPAY)
+NS2
+Amber Road
+Aurora Payments
+Gigamon
+Energy Vault (NYS: NRGV)
+Travelocity
+KAYAK Software
+Sumo Logic
+Trustworthy
+VisionTek Company
+Adknowledge
+Alternative Technology
+Appfire Technologies
+Aptos
+Aura (Network Management Software)
+BetaNXT
+BrightRoll
+Bullhorn (American Cloud Computing Company)
+Charles River Systems
+Curvature (Acquired 2017)
+Data Theorem
+Dialpad AI
+E Tech Group
+EagleView Technologies
+Evotek
+Fivetran
+GreatCall
+GuidePoint Security
+ID Technologies (Ashburn)
+IgniteTech
+Information Builders
+Intellocorp
+interBiz (e-Business Application Divisions)
+Jaggaer
+Jerue
+Liftoff Mobile
+Marigold Engage+
+Moloco
+Nintex
+Odaseva
+OpenMarket
+Prodege
+Proteus
+Purchasing Power
+Qualitrol
+Quorum Software
+Saba Software
+Scalix
+Service Express
+Sovos Compliance
+SuperRare Labs
+Team Whistle
+Videology
+Vistex (Illinois)
+whyunified
+Yami (Internet Retail)
+E-Mon
+PLAYSTUDIOS (NAS: MYPS)
+RAND Worldwide (PINX: RWWI)
+Inspired Entertainment (NAS: INSE)
+Trafera
+Celsius Network
+Harland Financial Solutions
+Mybonahome
+RetailMeNot
+Legato Systems
+Graphite
+UserZoom
+Friendfinder Networks
+Intel (Media & Signaling Business)
+Cardlytics (NAS: CDLX)
+Dave (NAS: DAVE)
+Amplitude (NAS: AMPL)
+Active Network
+Aurea
+SPSS
+Endgame (Network Management Software)
+Abaco Systems
+Babylist
+Aeris Communications
+Shi/Government Solutions
+Arcadia Power
+HealthStream (NAS: HSTM)
+Remedy Corporation
+GuestCentric
+EnergyNet (Amarillo)
+Litle & Co. (Payemnt Platform)
+Benson Hill (NAS: BHIL)
+Altium
+Paya
+PubMatic (NAS: PUBM)
+Jack of All Games
+Angel Studios
+CyberSource
+MoPub
+Transfix
+Precision Industries
+Solaris Oilfield Infrastructure (NYS: SEI)
+Eze Software
+LitHouse
+P2 Energy Solutions
+Ranial Systems
+Perforce Software
+Upland Software (NAS: UPLD)
+American Global Logistics
+Courier (Printing Services (B2B))
+Calendly
+Denali (IT Consulting and Outsourcing)
+e-Rewards
+NetScreen
+Mavenir Systems
+CareerBuilder
+Emerge (Scottsdale)
+Honey Science
+Scientific Games Lottery
+Tillster
+Control4
+S3
+Lereta
+Olo (NYS: OLO)
+Accruent
+Cashout Videos
+Naviga
+Unicom Engineering
+Systems & Computer Technology
+Zola
+Quotient Technology
+LSI (Consumer Products Group)
+Drizly
+Fluent (New York) (NAS: FLNT)
+Lynk Systems
+Pixm
+BancTec
+Interwoven
+Clear Street
+Force 3
+Procare Software
+Tango Live
+Expert Software
+A10 Networks (NYS: ATEN)
+RSG Media Systems
+Document Technologies
+New Tech Solutions
+Model N
+Stem (NYS: STEM)
+Definitive Healthcare (NAS: DH)
+The Meet Group
+HealthPort Technologies (Document Management Services Division)
+Clubessential
+Nifty Gateway
+inContact
+Agilysys (NAS: AGYS)
+Salesforce Commerce Cloud
+Aspiration
+Pulse Secure
+Callidus Software
+Microsoft Puerto Rico S.A.
+Norris Automotive Group
+Vetsource
+SADA Systems
+Great Plains Software
+Management Science America
+Adore Me
+Arrow Systems Integration
+Icertis
+iCIMS
+Infinite Commerce
+Inspyrus
+Nextiva
+PeopleFun
+Peregrine Systems (Remedy Software)
+Polaris Alpha
+Tether Studios
+TodayTix
+Total Life Changes Llc
+Ventyx
+TaxACT
+Benefitfocus
+Scholastic (Educational Technology and Services Business Unit)
+Ooma (NYS: OOMA)
+Extreme Reach
+The Expectations Project
+ASG Technologies
+Zix
+Answers.com
+Monotype Imaging
+NSFOCUS (SHE: 300369)
+Viant Technology (NAS: DSP)
+ForgeRock
+Metrologic Holdings
+Clarify(acquired)
+CaseStack
+Katapult (Consumer Finance) (NAS: KPLT)
+VertexOne
+One Technologies
+Intercom
+Max Motors
+CompAS Controls
+Demandbase
+Emplifi
+Instron
+ShareFile
+Webroot
+Intercept
+Crave Entertainment Group
+RamseySolutions
+Blade Urban Air Mobility (NAS: BLDE)
+Hollywood Casino Columbus
+Nextdoor (NYS: KIND)
+X-Rite
+DMW&H
+Fleet Advantage
+Planet Labs (NYS: PL)
+TeleNav
+GitPrime
+S1
+Bouquet
+Headspace
+Essex
+ZeroFox
+DST Innovis
+Mondee (NAS: MOND)
+Givbux (PINX: GBUX)
+i2 Technologies
+Verint Americas
+Axtria
+LivingSocial
+Access Point (Telecommunications Service Providers)
+Dataiku
+Fine Tec (Value-Added Distributor in Network Security)
+MSC Software
+Sabre Hospitality Solutions
+Thomas Publishing
+Tripwire
+Wasabi
+Zapier
+Carbon Black
+Altiris
+argent associates
+Mindbody
+Boole & Babbage
+Lovevery
+a360inc
+KBZ Communications
+Oracle Service Cloud
+Plaid
+Apptio
+Bottero Spa
+Energy Entp Solutions
+Hyperion Software
+MRO Software
+Sezzle (NAS: SEZL)
+Liberty Enterprises
+Imagine Learning
+Ambarella (NAS: AMBA)
+Archer Technologies
+BenefitMall
+LooksRare
+Midway Games
+Tangoe
+Gearbox Software
+Liquidnet
+UserGuiding
+GetJar
+Rover Group
+Travel Channel
+iQSTEL (PINX: IQST)
+MAU Workforce Solutions
+EarthColor
+Quickbase
+Fessenden Cooperative Assn
+Payment Processing
+2Checkout (Acquired 2017)
+DTN
+Maple (New York)
+CDC Software (Atlanta)
+MobileIron
+EnReach Technology
+DataPath (Georgia)
+TubeMogul
+New Cannabis Ventures
+PDI Technologies
+Good Technology
+Zoosk
+AppDynamics
+Feedonomics
+TCW Global
+Solidworks
+Data Processing Resources
+Congruity HR
+American Megatrends International
+Hyphen Solutions
+Pocket Gems
+RedViking Group
+ReliaQuest
+Wall Street Systems
+RigNet
+Bluum (Acquired/Merged)
+LG Energy Solution Vertech
+Century Payments
+Intervoice
+Edifecs
+Xpedior
+FiberNet
+R Systems International (BOM: 532735)
+Sirf Technology
+Echelberger
+Acquia
+WebMethods
+Alpine Engineered Products
+Dynamic Systems (Barcode Technology Systems)
+Schrodinger (NAS: SDGR)
+DealerSocket
+Visio
+6Sense
+Abnormal Security
+Affinitiv
+AlphaSense
+Amherst Technologies
+ANSR
+Arctic Wolf
+Armis
+AuditBoard
+Auth0
+Ava (Media and Information Services (B2B)
+Bungie
+Calabrio
+Capitolis
+CD-Adapco Group
+CharterUp
+Checkr
+ClickSoftware Technologies
+Curology
+Cylance
+Dataminr
+DataStax
+Delinea
+Digital River
+Druva
+Emburse
+Enpass
+EveryAction
+ExtraHop Networks
+Gainsight
+Global Capacity
+Goodville
+Headout
+Human Interest
+Hutchinson Industries
+Iterable
+Jive Software
+Joyent
+Jumio
+Kabbage
+Koalafi
+Landing
+MapR
+Mattel163
+Medly Pharmacy
+Midjourney
+MNTN
+Mutual Mobile
+Neptune Technology Group
+Pango (Network Management Software)
+PayCargo
+PayScale
+Pendo
+Phonexa
+Pinger (Communication Software)
+Pump (Financial Services)
+Reliant Care Levering
+Signifyd
+Star Atlas
+Stord
+Syniti
+Tangible Play
+Tekion
+Threadflip
+Tilting Point Media
+Toptal
+Trimble Viewpoint
+Trintech
+VAST Data
+Velocity Global
+Venture Properties (Northern California)
+Via (New York)
+Vology
+Wavelink (Network Management Software)
+Wealthfront
+WNBA
+Workfront
+Brightcove (NAS: BCOV)
+SmartRent (NYS: SMRT)
+Simplilearn
+Penguin Computing
+Couchbase (NAS: BASE)
+Navitaire
+Integral Systems
+Weaver (Accounting Firm)
+Nerdy (Educational Software) (NYS: NRDY)
+Conservice
+Weave ( Business/Productivity Software) (NYS: WEAV)
+Signpost (Business/Productivity Software)
+Enfusion (NYS: ENFN)
+Ask Blue
+Pivot International
+ArcSight
+Responsys
+Art Technology Group
+TicketNetwork
+Aurum Technology
+Bebo
+Incentive Networks
+Micro Technologies
+eCOST.com
+Peregrine Systems
+SDI Media
+Compunnel Software Group
+Sunbit
+Dynasty Alpha
+Talkdesk
+Centerfield Media Holdings
+The Arena Group Holdings (ASE: AREN)
+Americas Floor Source
+Caviar (Restaurants, Hotels and Leisure)
+Inxeption
+Wrike
+Zotec Partners
+Unybrands
+NetIQ
+Billtrust
+Powerhouse Technologies
+The Princeton Review
+Rosetta Stone
+PaperExchange.com
+SeniorLiving.Net
+Gerber Technology
+Landmark Graphics
+JNCO Jeans
+PortAuthority Technologies
+Workhuman
+UserTesting
+Grapevine-Colleyville ISD
+Excite
+Pelco
+ProQuest Business Solutions
+Syntellis Performance Solutions
+BreakoutBit International
+Cred (Financial Software)
+AverStar
+616 Realty
+RevContent
+Vantive
+Swanleap
+Sitecore
+OPNET Technologies
+7thonline
+TV One
+A-LIGN Assurance
+Brightly Software
+Cart.com
+Dexter + Chaney
+Down (Social/Platform Software)
+Gatan International
+Hendrick Motorsports
+ServiceMax
+Tribridge
+Urban Science
+Weedmaps (NAS: MAPS)
+TEOCO
+Aptean
+Grammarly
+MAPICS
+Merkle (Columbia)
+Robin R Gordon
+Kaltura (NAS: KLTR)
+NYX Gaming Group
+Xoom
+Eventellect
+Manugistics Group
+DataRobot
+Isilon Systems
+Oracle Primavera
+Pegasus Solutions
+Hightower
+Ab Initio
+Fuhu
+HighJump
+NextRoll
+OANDA
+PlantCML
+PrimePay
+iSend.
+Retek
+Iteris (Technology Company)
+Lynda.com
+ChannelAdvisor
+LiquidHub
+Triple Point Technology
+Hemlane
+Meredith Xcelerated Marketing
+AdTheorent Holding Company
+ConstructConnect
+Ruffalo Noel Levitz
+BeMob
+Infoblox
+TrueCar (NAS: TRUE)
+VoltDelta
+PDF Solutions (NAS: PDFS)
+Revecore
+Cannon Cochran Management Services
+CJ Affiliate
+Cybertrust
+DRB
+Erickson Senior Living
+Glassdoor
+HotelPlanner.com
+OvationCXM
+project44
+Trading Technologies International
+Voyatek
+VDX.tv
+Granicus
+Mapinfo
+Dassault SystÃ¨mes BIOVIA
+Speridian Technologies
+Sub Contracting Concepts
+Central Payment
+LeadVenture
+Game Haus
+Open Systems International
+Strava
+TIDAL
+Mitek Systems (NAS: MITK)
+Halfaker and Associates
+Wynne Systems
+Urgent.ly (NAS: ULY)
+marathon digital
+ActiveCampaign
+Digex
+HighJump Software (Acquired 2014)
+Boxlight (NAS: BOXL)
+PRGX Global
+CardCash
+GroundTruth
+Immersion (US) (NAS: IMMR)
+NanoString Technologies
+Matterport (NAS: MTTR)
+Anyone Home
+Lantronix (NAS: LTRX)
+Online Resources
+Borland Software
+Integic (E-Business Integration Software)
+Phoenix Integration
+Micromuse
+n2grate
+Harbinger (Business/Productivity Software)
+Arcesium
+Casto Travel
+DIVDAT
+Egnyte
+eProductivity Software
+Gameflip
+GumGum
+Looker
+Softrams
+Switcher Studio
+Tecton
+Touch Of Modern
+Xactly
+YuMe (Media and Information Services (B2B))
+Vignette
+Telespectrum Worldwide
+Globo
+Sierra Entertainment
+CoinList
+Magic Leap
+Fundtech
+DiviCom
+Pico
+Seebeyond Technology
+SoftPlan (Multimedia and Design Software)
+Blend (NYS: BLND)
+PureCars Technologies
+Intersections
+Moody's KMV Company
+SonicWall
+Algolia
+Bite Squad
+Kemp Technologies
+TerraSmart
+Opower
+Barra
+GFI USA
+Zomax
+KCF Technologies
+ON24 (NYS: ONTF)
+Majesco
+Cynergy Data
+Applause
+Beamable
+Bestpass
+Bloomreach
+Calm
+CloudBees
+Converged Security Solutions
+Divergent Entertainment
+DogVacay
+Dotgo (Business/Productivity Software)
+Ecommerce Brands
+Exiger
+Fishtech Group
+Formation Systems
+Grafana Labs
+HEAT Software
+InMarket Media
+iWorkGlobal
+LifeSize
+Magento Commerce
+Mears Transportation
+Mobile (Media and Information Services (B2B))
+MoonPay
+Motive (Hardware)
+Nimble RX
+Outreach
+Parallels
+PLACE
+PowerPlan
+RockYou Media
+Rogue Wave Software
+Sabre Corporation (AirCentre Business)
+Saviynt
+Sisense
+SmartBear
+Smule
+Sonatype
+Spireon
+SuperDerivatives
+The Shipyard
+Trucker Path
+Turnitin
+Uplight
+Venafi
+Visionet Systems
+Vyre Network
+WeddingWire
+Wondrium
+Xtime
+Zealot Networks
+Aerohive Networks
+Innovid (NYS: CTV)
+Accoona
+Slickdeals
+Ivalua
+Capitol Auto Group
+Boaz Bikes
+IGT OnLine Entertainment Systems
+ViewLogic Systems
+Radyne
+Huntington Learning Center
+DataWorks
+Packeteer
+Ascom TEMS
+Magma Design Automation
+tastytrade
+Addepar
+citiquest properties
+T-ROC
+Cellnet Technology
+Alfresco Software
+Vision Solutions (Systems and Information Management)
+Hexagon US Federal
+MaxPoint Interactive
+Kobie
+Eos International
+DISCO (Austin) (NYS: LAW)
+Verity (California)
+LiveVox
+SimplePart
+Acclaim Entertainment
+Synchronoss Technologies (NAS: SNCR)
+Casa Blanca Real Estate
+Rainbow Technologies
+UCCEL
+AremisSoft
+Gourmia
+Qomplx
+Alert Logic
+Bit Fry Game Studios
+Bleacher Report
+Hatch (Electronics)
+Loadsmart
+MBlox
+Paradigm
+Phacil
+Verst Logistics
+WideOrbit
+Wunderkind
+The Harris Poll
+BluePay
+Symyx Technologies
+Certinia
+Scribd
+AI Fintech
+Kana Software
+Agora (Communication Software) (NAS: API)
+Procurian
+Tradesoft Technologies (Alternative Trading System)
+Expensify (NAS: EXFY)
+Innodata (NAS: INOD)
+Access Health
+Arcserve
+iCrossing
+Storable
+PullRequest
+MatrixOne
+Amano USA Holdings
+Telos (Network Management Software) (NAS: TLS)
+Relias
+Axent
+WFCN
+FreeMarkets
+GAN (NAS: GAN)
+New World Systems
+PacStar
+SurfControl
+Networkip
+Integrated Systems
+GFT Forex
+Alation
+Braxton Technologies
+Integrated Collision Management
+VDart Digital
+Electronic Funds Source
+Ebuzzing
+Salary.com
+ArcaTech Systems
+Avanquest Software
+Pathwire
+Raritan
+SIGNiX
+Aircall
+Veritone (NAS: VERI)
+First American Payment Systems
+Cantata Technology
+Stellent
+Tivoli Systems
+Idera
+Agile Software
+CyberCoders
+Docker
+EmbanetCompass
+Gordian (Business / Productivity Software)
+Helena Agri-Enterprises
+ID.me
+MasterControl
+nextSource
+Scantron
+The HOTH
+Unqork
+Mitel Mobile
+FiscalNote Holdings (NYS: NOTE)
+Tradestation Group
+Oil Price Information Service
+View
+Accela
+dYdX
+Upside
+Genome from Yahoo
+LiveXLive (NAS: LVO)
+Command Alkon
+Kurzweil Educational Systems
+ThirdLove
+Varrow
+RDE (NAS: GIFT)
+Merant
+Bettaway Traffic Systems
+RKL eSolutions
+Storm8
+Tintri (PINX: TNTRQ)
+Renaissance Learning
+Validity
+Greenhouse Software
+Bevero
+Bitcentral
+Cameo
+CrossMatch Technologies
+CSIdentity
+Datalogix
+Digital System Resources
+FloSports
+Mad Mobile
+MadHive
+Netxusa
+Propio
+ServiceChannel
+SimpliVity
+Stash Financial
+Swan Bitcoin
+Vultr
+TransCentra
+Keynote Systems
+Analysis and Technology
+InfoCenter (IT Consulting and Outsourcing)
+3Dfx Interactive
+Com2uS Holdings (KRX: 063080)
+Trilogy Education Services
+Noble Systems
+Encoda Systems
+Vue
+Fooda
+BRIX (Application Software)
+FX Alliance
+NetraDyne
+Captaris
+Concentrex
+Fluent CFD Software
+RedShelf
+Rightside Group
+PeopleNet Communications
+Park Square Realty
+Aterian (NAS: ATER)
+Team Velocity
+TransAmerica Logistics, Inc
+OpenTV
+Agro.Club
+Alegeus Technologies
+Bluewolf Group
+Cybereason
+Data.AI
+Echopass
+Glam (Social Content)
+IHS Global Insight
+INRIX
+Just Salad
+Loci (Database Software)
+LowerMyBills.com
+Malwarebytes
+Manganum
+Next Trucking
+Oasis Corporate Housing
+Onclusive
+Parago
+Pebble Watch
+Personal Capital
+Single Digits
+Telogis
+U.S. Soccer
+Versient
+Vocollect
+WillowTree
+eScreen
+Opyn (Financial Software)
+Tufin
+QRS
+One (Folsom)
+Allaire
+WorkGenius
+Group 1 Software
+Justonetouch
+Pure Atria
+Anki
+BCD International
+Telos Gifting
+Zozi
+Global Risk Solutions
+Hewlett-Packard (Customer Management Software Business)
+HP (Certain Customer Experience Software Assets)
+Anthology Labs
+Early Warning
+Goal Systems International
+Field Nation
+Intervideo
+Zebit
+Microdesk
+Aspect Development
+Zwift
+Rentrak
+Opsware
+ChargeBee
+Asure Software (NAS: ASUR)
+Bix Produce Company
+GearLaunch
+Kony
+Parchment
+Seisint
+Nityo Infotech
+Carreker
+SumTotal Systems
+Adaptive Insights
+DecisionPoint Systems
+Magnetrol International
+Omnipod
+Setech Supply Chain Solutions
+TrueNorth Companies
+Magnetek
+NetVersant Solutions
+Complete Merchant Solutions
+Kyriba
+eInstruction
+Conduent (Local and Municipal Constituent Government Software Solutions Business)
+Napster
+Rithum (Media and Information Services)
+Zenlayer
+OpenSales
+MolQ
+WorkMarket
+the rinaldi group
+Prepay Nation
+Surf Air Mobility (NYS: SRFM)
+Concord Communications
+HookLogic
+Ticketfly
+Internet Brands
+Epocrates
+Salsify
+Consilio
+ecoATM
+Paradyne Networks
+Samba TV
+Exabeam
+Coder (Software Development Applications)
+Humanetics Innovative Solutions
+iD Tech (Educational Software)
+Mu Sigma
+Omnia Media
+Operative
+Optimal Blue
+Peerless Pump Company
+SalesLoft
+The Neat Company
+Wyatt Technology
+Alteon WebSystems
+Youbet.com
+Inet Technologies
+DealerBuilt
+Unica
+Purple Communications
+Autonomy Zantaz
+NxGen
+Prove
+Sevan Multi-Site Solution
+Hobsons
+Guidance Software
+Catalis (Alpharetta)
+InfoTrack
+Groq
+NBCi
+Cambium Learning Group
+Delphi Display Systems
+Endeca Technologies
+En Pointe Technologies
+Interact Commerce
+Electronic Transaction Consultants
+Actuate (California)
+Spire (NYS: SPIR)
+Actian
+Pixelz
+Kastle Systems International
+NYSE Technologies
+HiBob
+Skillz (NYS: SKLZ)
+UniRush
+Evolve IP
+Lacework
+LPS Integration
+Consona
+TXN Solutions
+insightsoftware
+J&J Ventures
+Ouster (NYS: OUST)
+ION Geophysical (MUN: IO8N)
+enVista
+LifeWorks (Acquired)
+N3TWORK
+Overwatch Textron Systems
+Plastiq
+GovSmart
+Software One
+Conexant Systems
+zTrip
+Yodlee
+Sonic Solutions
+Ansoft
+ArcSoft (SHG: 688088)
+BambooHR
+BitTitan
+Instamotor
+American Software (NAS: LGTY)
+Cadre (United States )
+Schiebel
+Network General
+zitrogames
+PEAK Resources
+Alliance Global Services
+Madwire
+Zeta (California)
+Diligent (New York)
+Ceva (NAS: CEVA)
+Iit Hyderabad
+Datastream Systems
+On-Line Software International
+WorkForce Software
+Identifix
+Visto
+United Payors & United Providers
+Ryla Teleservices
+Devolver Digital (LON: DEVO)
+ABC Legal Services
+AcreTrader
+Aggregate Knowledge
+Aha! (Business/Productivity Software)
+Airbus DS Communications
+Angel.com
+Applied Predictive Technologies
+Applied Software Technology
+AppSense
+Aryaka Networks
+Atlas Technology Group (RMT Business)
+Attain (Financial Software)
+AuthenticID (Acquired 2016)
+Aviatrix
+Axellio
+Axioma
+Axios Media
+Axonius
+Bankers Systems
+Banq (Nevada)
+Beatport
+Beck's Hybrids
+BetterUp
+BeyondTrust Software (Acquired 2018)
+BGC Partners (US Treasury Electronic Trading Operations)
+BidMind
+BigID
+BigPanda
+BioAuthorize
+Birdeye ( Business/Productivity Software)
+BlackHorse Solutions
+Blockboard (Business/Productivity Software)
+Bombfell
+Brainshark
+Brandable
+Bright Machines
+BrightEdge Technologies
+Brightree
+Brigit
+Brivo Systems
+Bugcrowd
+Capbase
+Catalant
+Cdata
+CellPay
+Channel Factory
+Chess.com
+Clarabridge
+Claroty
+Cloudinary
+Cockroach Labs
+CoinFlip
+Compliant Gaming
+connectRN
+ConnexPay
+Corva
+Course Hero
+Cribl
+Crimson Hexagon
+Crossbeam Systems
+CrunchTime Information Systems
+Curacity
+Dassault SystÃ¨mes Simulia
+Defy Media
+Delivery.com
+Demand Science Group
+Dianthus (Business/Productivity Software)
+Disprz
+Diversified Automation
+Dragon Foundry
+Dragos
+DreamBox Learning
+DuckDuckGo
+Ember Entertainment
+EncyclopÃ¦dia Britannica
+Enporion
+Entouch
+ESG Global
+Ethos (Insurance Brokers)
+Evernote
+EverWash
+Expel
+Factor_
+Faire
+Fearless (IT Consulting and Outsourcing)
+Fireblocks
+Firstup
+Flashpoint (Washington DC)
+FloQast
+Flutterwave
+Foresight Sports
+Foursquare
+FPX
+Fundbox
+Gala Games
+Galileo (Financial Software)
+General American
+Gobble
+Golden Boy Promotions
+Gorgias
+goTRG
+Grand Lux Realty
+Greenlight Financial Technology
+Greenwave Systems
+GreyOrange
+Guesty
+Guild
+Handshake
+Happiest Baby
+Harness
+HCSS (Sugar Land)
+HireVue
+Homie (Real Estate Services)
+HotChalk
+Human Security
+HungerRush
+Huntress
+Iconixx
+Illumio
+Impact Tech
+Impel (Business/Productivity Software)
+Infillion
+Interleaf
+InVision (New York)
+Invoca
+Iris Nova
+iSpot.tv
+JIBE Health
+Jumptap
+Katch (United States)
+KiwiCo
+Knocking
+Kong
+Kore.ai
+Kx Systems
+LeWiz Communications
+LiveOps
+Lob
+Lucid
+Lula
+Lumenad
+Magnetic (Marketing Platform)
+Magnitude Software
+Mapbox
+MarkLogic
+MasterClass
+MegaHoot Technologies
+Menlo Security
+MentorcliQ
+MindManager
+Mirantis
+Mixpanel
+MrBeast Burger
+Narvar
+Nasuni
+Neo4j
+NetDocuments
+NetQuote
+NetSPI
+Nexmo
+Nomad (Financial Software)
+Nuvolo (Business/Productivity Software)
+Octane
+Ontra
+Openlane (Acquired)
+Overtime
+PandaDoc
+Paperless Parts
+Patreon
+Peapod
+Peerless Technologies
+Perfect Game
+PerimeterX
+Picsart
+Pie Insurance
+Placer.ai
+PlanetRisk
+PlanGrid
+PlayPhone
+Podium
+PopCap Games
+PowerPay
+Psyonix
+PulsePoint
+Quartile
+Quicken
+Rally (Portland)
+RapidDeploy
+Recharge
+Recurate
+Red Canary
+Redis
+Reltio
+Reputation (Business/Productivity Software)
+Restaurant365
+Revel Systems
+Revinate
+Rippling
+RiskGenius
+Riskonnect
+Rockislandauction
+Route
+RTFKT
+Saama Analytics
+Savant Systems
+Scale Media ( Business/Productivity Software)
+Scentbird
+ScienceLogic
+Seamless
+Securonix
+Semperis
+SendGrid
+Sentry
+Service Finance Company
+ShowClix
+SightCall
+Sigma
+Signal Perfection
+Simpli.fi
+SingleStore
+Smarttouch Interactive
+SnagAJob
+SOCi
+Socure
+Sojern
+Split (Business/Productivity Software)
+Spredfast
+Spring (Media and Information Services)
+Spring Global
+Subscript
+SugarCRM
+Systems Engineering Associates Corporation
+Tapad
+Tealium
+Techwave Consulting
+Tempo (Recreational Goods)
+Terakeet
+The Radiant Group
+ThousandEyes
+Three Wire Systems
+ThycoticCentrify
+Tilt ( Social/Platform Software)
+TinyCo
+Tonal
+Transflo
+Transmit Security
+Trion Worlds
+Trunk Club
+Udacity
+Uniswap
+upGrad KnowledgeHut
+Upper Deck
+Uptake
+VaaS International Holdings
+Vanco Payment Solutions
+Vanta
+Vaycaychella
+Veracode
+Verbit
+Vercel
+VeriSign (Payment Gateway Business)
+Verivo Software
+Vested Finance
+Viptela
+Visible Alpha
+Vlocity
+Wanderu
+WatchGuard Technologies
+WAUSAU Financial Services
+Waymo
+Webflow
+WEKA
+Workee
+WSO2
+YieldStreet
+Zefr
+Zenefits
+Zywave
+Rapiscan | AS&E
+Veraz Networks
+Boomerang- Digital Marketing Solutions
+SOR Technology
+DataBank IMX
+Finvi
+Interactions
+Hr1
+Plex Systems
+SS&C Blue Prism
+Jazzercise
+ThoughtSpot
+OGSystems
+Stamford Industrial Group
+FXDD Europe
+True Media
+Turbonomic
+Datatrac Information Services
+GoldenSource
+TmaxSoft
+Entrust (Plano)
+Sanchez Computer Associates
+RevSpring
+Ascend Learning
+Compute North
+Viewbix
+Open Lending (NAS: LPRO)
+Audience Inc
+Eloqua
+MetaSolv
+Endeavor Streaming
+Technomic
+SymphonyAI Retail CPG
+Binance.US
+Frame Technology
+SCRAM Systems
+Bullsone
+ARGO Data Resource
+EVERFI
+Novatech (IT Consulting and Outsourcing)
+Oroblu
+World 50
+Foxit Software (SHG: 688095)
+Regalix
+Information Holdings
+BravoSolution
+Global Water Technologies (PINX: GWTR)
+Axcient
+Portal Software
+Medata
+RLJ Entertainment
+Edmentum
+Net Element
+Novetta Solutions
+PeopleFluent
+Realty One (Winston Salem)
+Softbrands
+eGain (NAS: EGAN)
+Esportz Network
+Crackle (Entertainment Software)
+Rally Software Development
+Plumtree Software
+V-Soft Consulting
+Acorns
+Textura
+Tile (Electronics)
+Apigee
+COCC
+Mimeo
+Nova Labs
+Comdata
+Boku (LON: BOKU)
+Zonar Systems
+Essex Industries
+ATS Corporation
+ConsumerDirect
+Intelliverse
+Pacific Living Properties
+Fulcrum (Systems and Information Management)
+Neoware
+Computer Management Sciences
+Netegrity
+Phobio
+Burgiss
+Cannon Technologies
+Carpathia Hosting
+Cofense
+DealHub
+Global 360
+Jasper
+LI-COR
+Metretek
+Nova Technologies
+Optimizely (Acquired)
+Pinnacle Realty Advisors
+Pipedrive
+Splashtop
+Sprig (Media and Information Services (B2B))
+Super.com
+Telephia
+Wyre
+Westar Aerospace & Defense Group
+Vera
+SevOne
+Docucorp International
+Evolv Technology (NAS: EVLV)
+Demandtec
+Mobius Management Systems
+o9 Solutions
+EVault
+Inktomi
+NoHo Hospitality
+WideAngle
+Rightworks
+Swift Financial
+Premier Election Solutions
+Latisys
+HealthFusion
+Navegate
+Siwel Consulting
+Davidson and Associates
+Higher One
+Vibrant Media
+Onbe
+Indus Group
+technatomy
+LogicMonitor
+Rhodium Enterprises
+TMW Systems
+Corcentric
+Gaia (Media Company) (NAS: GAIA)
+Barcel USA
+Attunity
+Tripwire Interactive
+JPMorgan Chase Vastera
+Workato
+Empire Interactive Media
+PayPal Credit
+Fargo Electronics
+Objectware
+Thurgood Marshall College Fund
+Wag (San Francisco) (NAS: PET)
+Delta Education
+QAS (Database Software)
+Career Town
+Keap
+Ladders
+Lucidworks
+MLM Information Services
+Prophet 21
+Ritter Insurance Marketing
+Sontiq
+Motive (Business/Productivity Software)
+Compex Legal Services
+EYT
+Edx
+RBmedia
+Blackboard
+Conga (Acquired 2020)
+Forward (Clinics/Outpatient Services)
+The Nantais Group
+Motus
+Identix
+Cleo Communications
+One Network Enterprises
+Sehlke Consulting
+Double-Take Software
+Ambo
+Personify Health
+MediaMind Technologies
+Forte Software
+EngagePoint
+MTM Technologies
+Caminus
+Matlen Silver
+Kinetic (Digital Marketing Platform)
+Skai (Social/Platform Software)
+Technical Communities
+Connexta
+Mandiant (IT Consulting and Outsourcing)
+Gearbox Publishing
+Market Scan
+Four Winds Interactive
+Lighthouse Computer Services
+Quickstep
+VLCM
+john cannon homes
+eSolutions (Kansas)
+Synacor
+Precise Software Solutions
+Usio (NAS: USIO)
+JetPay
+Tapjoy
+Vention (IT Consulting and Outsourcing)
+CrossWorlds Software
+Inuvo (ASE: INUV)
+More Than Computers
+Convio
+Neudesic (IT Consulting and Outsourcing)
+Quantech Services
+NameMedia
+Investar Holding (NAS: ISTR)
+Blue Ridge Global
+CIeNET Global
+Foodler
+ForRent
+FreightWaves
+Inmedius
+Invenco Group
+Jagged Peak (US)
+Motili
+Otter (Internet Company)
+PassiveLogic
+Petal.
+Preston Feather
+Quest Integrity Group
+Return Path
+Skybox Security
+StoneRiver
+Sungard Vericenter
+Synon
+T2 Systems
+Talmetrix
+Unstoppable Domains
+VideoAmp
+WEX Health
+ZPE Systems
+BizFi
+Innoveda
+Digital Risk
+Star2Star Communications
+eVestment Alliance
+Khan Academy
+Captiva Software
+Forge Global (NYS: FRGE)
+GameSquare Holdings (NAS: GAME)
+Visual Sciences
+Numara Software
+Schreiber Corporation
+Data Axle
+FX Solutions
+Brooktrout Technology
+Optimatic Media
+Bloom (Bloomington)
+AG Interactive
+InnovoEdge
+signarama alexandria
+Frontline Data Solutions
+Deskera
+Safe Haven Security Services
+Avanti (Environmental Services)
+FTC Solar (NAS: FTCI)
+Daybreak Game Company
+US Interactive
+Render
+Tada (Application Software)
+Direct Alliance
+Dyn
+Verizon Telematics
+Quovadx
+Dynasty Financial Partners
+EXE Technologies
+FNEX
+Open English
+Elsevier MDL
+Super Free Games
+Connecture
+Xhibit
+Better ( Thrifts and Mortgage Finance) (NAS: BETR)
+Objective Systems Integrators
+Goldleaf Financial Solutions
+BigTinCan (ASX: BTH)
+Spectrio
+AgileEngine
+Chordiant Software
+OMAX (Machinery (B2B))
+OneShield
+Coherent Solutions
+Lilly Software Associates
+LiveIntent
+Vital Support Systems
+Human Technologies (South Carolina)
+Silverline
+VeraLab
+Noventis
+Yorktown Systems Group
+Archipelago Learning
+Black Duck Software
+CashEdge
+Clickatell
+Delphix
+Digital Guardian
+ETQ
+Firebolt
+Ipswitch
+Linden Lab
+Numerix
+Open Solutions
+Perceptyx
+ShopperTrak
+Skylight (Other Consumer Durables)
+SolidFire
+StarTree
+Supersonic
+Virtana
+Virtual Instruments (Acquired)
+Synplicity
+Creative Information Technology
+Dwsworldwide
+Explore Information Services
+RGBSI
+Raindance Communications
+LaSalle Network
+Tilson HR
+Identiv (NAS: INVE)
+Crestcom International
+Quillt Media
+COMSOL
+Click Commerce
+ERPA
+IWin
+Keeper Security
+BeyondTrust
+Snail Games USA (NAS: SNAL)
+Penson Worldwide
+Edify Corp
+Securadyne Systems
+Daida
+Indium
+Ampcus
+AppRiver
+Bindview Development
+LiveRail
+Exa
+Movable Ink
+Ventiv Technology
+Zego (Financial Software)
+OwnerIQ
+365 Retail Markets
+American HealthCare Services Association
+Comtronic Systems
+Kmc Controls
+Metrika Systems
+Neology (Business/Productivity Software)
+Digital Angel
+RegEd
+Kenfil
+Epiphany
+Edge Logistics
+Ready Wireless
+Bladelogic
+APEX Analytix
+Dixon Schwabl Advertising
+TriTech Software Systems
+PublicRelay
+AutoWeb
+Audio Video Systems
+Inspirage
+VinSolutions
+Xbite Ltd
+SecurityScorecard
+SiteStuff
+NIKU
+Corio
+Branded Entertainment Network
+DatAvail
+Red Violet (NAS: RDVT)
+OMNIQ (PINX: OMQS)
+Celltick
+Covisint
+Spin Games
+Kord Technologies
+Local (Irvine) (PINX: LOCM)
+BeeHero
+Blytheco (Abila)
+Chef Software
+Connected Vehicle Optimization
+Conviva
+Coverity
+Gordian
+Green Solar Technologies
+Halcon
+LINQ Service
+Lotame
+MicroPact
+RadiumOne (certain assets)
+Recommind
+Russell HBD
+Seegrid
+SilverPlatter Information
+Skyvera
+Snapsheet
+SupplyFrame
+Technisys
+Union Square Media
+Verodin
+Vestmark
+Whitepages
+Y Media Labs
+Virtus Partners
+KidCaboo
+Quintus (USA)
+Boston Dynamics
+Computex Technology Solutions
+Palmsource
+ElectrifAI
+TouchNet Information Systems
+Ryzex
+Highlands Residential Mortgage
+Unitrends
+ExaGrid
+GreenWizard
+Eat24
+Invoke Solutions
+Sparkart
+Traffic Tech
+Viasoft
+Full Harvest
+Talus Payments
+Bluefin Payment Systems
+RYVYL (NAS: RVYL)
+Stitcher
+DEG Digital
+Nogin
+Empirix
+Fourth
+WeVideo
+Telaria Video
+CAKE (IT Consulting and Outsourcing)
+Dairy.com
+EZ Messenger
+Lender Performance Group
+SkillSet Group - Engineering & IT Staffing
+Varolii
+CyberGuard
+Voltaire.
+American Bank (Corpus Christi)
+Blueprint Technologies
+PrizeLogic
+Zonda Home
+Blume Global
+Cyclelogic
+Braviant Holdings
+Unified Payments
+Cisco Jasper
+Allbridge
+ApTask
+GoCanvas
+KrowdFit
+MacStadium
+Xsolla (USA)
+Nitro Software
+iDrive Logistics
+Momentum Telecom
+Pollen (Information Services (B2C))
+PolSource
+Talroo
+Asignet
+JAMDAT Mobile
+Drawbridge
+Progressive Gaming International
+Globeset
+Infinity Sales Group
+Intertek Alchemy
+iVision
+Reflexis Systems
+United Merchant Services
+Sigma Designs
+Investview (PINX: INVU)
+Atlanta Communities Real Estate Brokerage
+eMusic.com
+DRT Strategies
+mayoseitz media
+Universal Field Services
+Simeio Solutions
+Achieve3000
+One Source Networks
+Predictix
+Service Management Group
+Allstate Identity Protection
+AppDirect
+Bbi Logistics
+BryterCX
+Hungry
+Jenzabar
+MentorMate
+OpenAP
+Quotient
+Servigistics
+SMARTSolution Technologies
+Nerdery
+BitGo
+Infogix
+Big Switch Networks
+uPerform
+DIH Holding US
+ED MAP
+Indrasoft (Cybersecurity)
+Cleo
+Endicia
+Abracon
+Upek
+Cover Genius
+Alphatech (Burlington)
+CDL 1000
+Edgewater Networks
+OTG Software
+Zetec
+Trax Group
+Dbsi Inc
+IntellaKey
+InfoLogix
+Intellisync
+TimePayment
+Dstillery
+IntegriChain
+Santur
+Open Market (Cambridge)
+Datalot
+Edcentric
+Accucode
+Flex Class
+Numerex
+MercuryGate International
+Netarx
+Exxe Group (New York) (PINX: AXXA)
+Corillian
+Scopus Preview
+Euna Solutions
+Polis (Information Services)
+KPA
+Aperia Technologies
+GrowthZone
+Impact Science & Technology
+Nitrogen Wealth
+Flatirons Solutions (Acquired 2013)
+Edifice Information Management Systems
+Iconic Labs
+Direct Source
+Ceres Systems
+AudienceScience
+Emptoris
+Asap (Application Software)
+Craftsy
+Empower Software Solutions
+Ontheline
+RIMES Technologies
+Tradeshift
+Auto Data Network
+eCopy
+TMA Systems
+Phoenix Technologies
+Identity Digital
+AdRizer
+B&D Industrial
+CodeMettle
+Eastern Research
+MyITgroup
+People.ai
+Prosek Partners
+SS8 Networks
+Barsan Global Logistics
+BI Incorporated
+Seismic Micro-Technology
+AFS (Logistics)
+Netsol Technologies (NAS: NTWK)
+Netcentives
+SIGCOM (Training Systems Division)
+Moldflow
+Promenade
+PacketVideo
+Applix TM1
+CHR Solutions
+Litmus (Boston)
+Acqueon Technologies
+Centric Software
+Smart ERP Solutions
+Active Voice
+Uniphore
+Pixelworks (NAS: PXLW)
+Open Access Technology International
+Resorts Digital Gaming
+Simulation Sciences
+HBM Prenscia
+Utility Data Contractors
+Dialogic
+M2M Data
+Gorilla Nation Media
+Listrak
+Galyleo
+Minority Moves Network
+Upromise
+Avathon
+Accurate Background
+Allant Group
+Apisero
+BarnBridge
+BERA Brand Management
+CallRail
+Comverge
+Detroit Engineered Products
+Dragon Systems
+Fidelis Security
+Further
+Geotrace
+GreatRateFreight
+Haskell's
+Hightail
+HotelTonight
+Hunter
+iboss
+Impetus Technologies
+Inttra
+K2 (Bellevue)
+Liaison International
+Mastercam
+Napster (US)
+Naviant
+NetMotion Software
+PA Group
+Particle
+Policygenius
+PourMyBeer
+Renogy
+Rev It Logistics
+Rhino
+Seamless.AI
+Sovrn
+SurePrep
+The Learning House
+Trubiquity
+Universal Traffic Service
+Utility Associates
+UtureAI
+Vincent Vacations
+VSCO
+ETAO International (PINX: ETAOF)
+Digimarc (ID Systems business)
+Brevetti-cea Spa
+IQMS
+MTech
+Altitude Digital
+Eperformax
+W4 Performance Ad Market
+Windsor (Business/Productivity Software)
+Tumbleweed Communications
+CyberPoint International
+Origami Risk
+Flip
+MainTree Systems (Behavioral Health Assets)
+Near (Los Angeles)
+Verifications
+Corporate Imaging Concepts
+AdPushup
+Teleport ( Software Development Applications)
+Medius
+Nationwide Title Clearing
+Clear Capital (Nevada)
+Embarcadero Technologies
+Landmark Systems Corporation
+Qumulo
+Computer Software Innovations
+Bakbone Software
+pcOrder.com
+Novadigm
+Onyx Software
+Mobile Posse
+Silvaco (NAS: SVCO)
+Sento
+MarketShare
+Transource Services
+Acuant
+Chyron
+Verisity
+Psyop
+BigMachines
+Danlaw
+First Data (Remittance Processing Business)
+Great Clips
+Leapforce
+Payment Logistics
+TheoremOne
+Who's Calling
+Healthvision
+NHN Global
+Saber Consulting
+WePay
+Blanchard Training And Dev
+Cobalt Networks
+BM Technologies (ASE: BMTX)
+M86 Security
+MyCoachingTree.com
+Pandologic
+TaxAudit
+Accordant Media
+MGN Logistics
+Bluehost
+Avention
+P&H Solutions
+Miles Media Group
+Fortior Solutions
+LaunchDarkly
+Upskillist
+Autel (Electrical Equipment)
+Providea Conferencing
+Voicetec Sys Ltd
+Triller (NYS: ILLR)
+MightyHive
+Optimizely
+NetQoS
+Paysign (NAS: PAYS)
+Lytx
+NowCom Driving Technology
+Limeade
+Armor (Network Management Software)
+Biometricsltd
+Datavantage Micros-Retail
+FC Cincinnati
+MyTAASK
+TSM
+Yammer
+Metalogix Software
+Scaled Agile
+Crownpeak Technology
+Official Sun Tan City
+SoundHound AI (NAS: SOUN)
+MTC Performance
+Augmentix
+Zipwhip
+NetCreations
+Nv Real Estate Academy
+Coastal Training Technologies
+SilverStream Software
+GeoTel Communications
+Taborda Solutions
+CRISP & GREEN
+Data Return
+Incedo
+Kitewire Mobility
+Platinum Solutions
+RDC (Business/Productivity Software)
+Sitejabber
+Spectra Logic
+Together Labs
+TriVIN
+WordStream
+Kana (Vertical Market Software(
+Quadrant 4 System
+CuriosityStream (NAS: CURI)
+Net Optics
+Primitives By Kathy
+Happy Money
+TalentWise
+Volta Charging
+MariaDB
+BrokersWeb
+Exacq Technologies
+Equitrac
+Madison Logic
+Bridgevine
+Classy
+Prescient
+SambaSafety
+NextLeft
+C3i (Acquired in 2014)
+Altamira (Network Management Software)
+Cattron North America
+3Pillar Global
+e4e
+Gigster
+KNOWiNK
+Amikids
+Inflection Risk Solutions
+Cigital
+Anthology (Florida)
+Cyberdefender
+IKOS Systems
+Viking Cloud
+Cressi
+ISN Software
+Alloy (Business/ Productivity Software)
+Pointandship Software
+Kyyba
+Ground Penetrating Radar Systems
+XRS
+Andela
+Consolidated Asset Recovery Systems
+Fetch (Logistics)
+Highwinds Network Group
+nPoint
+Sirius Solutions
+TradeBeam
+Trusted Tech Team
+Vormetric
+Planet Payment (Acquired/Merged)
+Veson Nautical
+One Stop Systems (NAS: OSS)
+AdColony
+Corvus
+New Signature
+Zorch International
+Vitria Technology
+Dynamic Card Solution
+Pcigroup
+RSM (Colarado)
+Media Temple
+Fortress Information Security
+Usablenet
+Ross Systems
+Broadvoice
+Convex ( Financial Software)
+ForeSee Results
+Fortemedia
+GLOBAL VR
+Handy
+Ten-X
+TicketForce
+Relativity ODA
+Atria Software
+iControl Networks (Connect business unit)
+Rjt Compuquest
+Smartit (staffing & Solutions)
+CCBN
+Consolidated Chassis Management
+Lightspan
+Techsmith
+Denodo Technologies
+BSI Financial Services
+CaryRx
+Primatics Financial
+RedSeal
+ReloShare
+On-Site Analysis
+Active Software
+Syndigo
+BlueSnap
+Alias Systems
+Pervasive Software
+Larva Labs
+ZirMed
+Verkada
+StarCite
+hCentive
+Turbocam Automated Production
+Tapestry Solutions
+CleverTap
+Mattersight
+Allego
+Albert (Educational Software)
+netpolarity
+OpenALPR Technology
+RealNetworks
+AST (Illinois)
+SAN Holdings
+Roadzen (NAS: RDZN)
+3DR
+Aerosim ( Education and Training Services (B2B))
+AGB Investigative Services
+Aisera
+AlgoSec
+Andie
+Attensity
+Backupify
+BetterCloud
+Betterment
+BloomCatch
+Brandt Information Services
+BroadLight
+Celtra
+CGA Computer Associates
+Cherwell Software
+Codecademy
+CoreStack
+Data Tactics
+DCEX
+Depositphotos
+Dion's
+DOMA Technologies
+DTiQ
+Dvtel
+Eat Club
+EmPhysis Medical Management
+Engine.
+Entek IRD International
+Fifth Gear
+Firebase
+FireStream WorldWide
+Firstlogic
+GammaRey
+GroundMetrics
+Halo (Consumer Durables)
+Hunt A Killer
+Imagine Learning (Acquired)
+InterAct Public Safety Systems
+Internosis
+iOFFICE
+iTrustCapital
+KEI Pearson
+Kongregate
+Kontera
+L3 Applied Defense Solutions
+Lattice
+LIFE DESIGN TECHNOLOGIES
+Luxury Presence
+MedRecruit
+MoxiWorks
+MST Solutions
+Nest - Multi-facility Management
+Netchex
+NetFortris
+Nomi (Media and Information Services (B2B))
+North
+Nugget
+Nurture Life
+Own Company
+Pacvue
+Paddle8
+Paradigm (USA)
+PaySys International
+Peopleclick
+Perplexity
+ProfessionalChats
+RetailNext
+Revionics
+Rooster Teeth
+SessionM
+Shick Esteve
+Shippo
+ShopKeep
+Sigma Designs (Z-Wave Business)
+SilverSky
+SimSpace
+Sisu (Real Estate Services (B2C))
+Spectro Scientific
+StayNTouch
+SundaySky
+Symphony (New York)
+The Penny Hoarder
+Trafficware Group
+Trilliant
+Unicru
+VeeFriends
+VendEngine
+Viamericas
+Virtual Film School
+VistaRMS
+Vizant Technologies
+Vormittag Associates
+WAVE-TSG
+XenSource
+YouWorld
+ZeeVee
+Acoustic
+Certent
+Shore Group Associates
+CrowdStar
+Teaching Strategies
+The Color Run
+Zanett Commercial Solutions
+GoliveMobile
+Indus Valley Partners
+Workday and Cornerstone OnDemand (HR Solutions)
+Xevo
+Vericut
+7Delta
+Universal Tax Systems
+Smartcar
+Aura (Financial Software)
+C2C-Outdoor
+Pony.ai
+Rightstar
+Lightspeed Trading
+IPLogic
+AWS Elemental
+AlsoEnergy
+Capital Corp
+Drake Software
+GX Technology
+Speedpay
+Turning Tech Intermediate
+Dolphin Entertainment (NAS: DLPN)
+Cimation
+Premier Payment Systems
+Triconex
+RealWorld Marketing
+CAST Software (New York)
+Contingent Network Services
+Procentrix
+Roggen Farmer's Elevator Association
+Certiport
+Latch (PINX: LTCH)
+Emburse Chrome River
+Signal (Chicago)
+SoundBite Communications
+Caret (San Diego)
+System Management ARTS
+Builder Homesite
+US Alliance Group
+Archer (Media and Information Services (B2B))
+LotLinx
+Mortgage Cadence
+Telvent Farradyne
+Thermopylae Sciences and Technology
+Tock
+Zenoti
+Nodat
+Seaside National Bank & Trust
+Denali Software
+MAP Communications
+V-Span
+Smaato
+Lumension Security
+StrikeSocial
+Truly Social Games
+First Commerce Bank (Lakewood) (PINX: CMRB)
+Saildrone
+JustVisual
+Next College Student Athlete
+Tickets For Less
+Verveba Telecom
+Earth Networks
+Red Frog Events
+Trustpoint.One
+SofterWare
+BeneSys
+BestMark
+Software Solutions Unlimited
+7Summits
+Cloud Imperium Games
+Exterro
+Vernier Software & Technology
+WebTrends
+BountyJobs
+Career Step
+InterCambio
+Rainmaker Group
+Telaid
+SBS Group
+Meridian IT (Deerfield)
+Trx (Commercial Services)
+Gigwalk
+Monetate
+Staffing Technologies
+BlueSquare Resolutions
+Figure Eight
+Equity Prime
+Karat
+Escrow Associates
+Fiberlink Communications
+CivicPlus
+Sanity Solutions
+Phenom
+Artemis International Solutions
+Clever(Educational Software)
+Discovery Education
+RealT
+Skipcart
+Tigo Energy (NAS: TYGO)
+Adero
+Bounteous
+Egen
+Om Holdings International (PINX: OMHI)
+BBN Technologies
+Trover Solutions
+iManage
+Affinity (Media and Information Services (B2B))
+Simple Energy (Boulder)
+Integra Micro Systems Pvt Ltd
+SingleHop
+SWN Communications
+Eightfold.ai
+Velocify
+Interworld
+Vantage Point Corporation
+A3 Communications
+ArborXR
+B&C Transit
+Break Media
+Chocolate (Business/Productivity Software)
+Code42
+Curl
+Dutchie
+Extreme Logic
+Facilio
+Fonality
+Harver
+Istation
+Logi Analytics
+NWP Services
+Payscape
+RMI.
+Silverpush
+Tavour
+User Interviews
+Vistronix
+Whatnot
+BankServ
+Koemei
+Velodyne Lidar
+Innovative Solutions & Support (NAS: ISSC)
+Clear Touch Interactive
+Delta Solutions & Technologies
+Issuu
+Morino Associates
+GoRemote Internet Communications
+New Futuro
+Ridgeline International
+Research Solutions (NAS: RSSS)
+oDesk
+Pro Teck Valuation Intelligence
+Chandler Chicco Agency
+Manatron
+Proper Media
+Securiti
+Vector Solutions
+Varsity Group
+M&S Technologies (Network Management Software)
+Netwrix
+Fortify Software
+PlumChoice
+Pipeline Data
+Critical Path
+Apache Design Solutions
+Daticon EED
+Fingerprint
+InMoment
+Itransition
+Micro Design Services
+Mirapoint Software
+Appgate
+Aprisma Management Technologies
+Caresoft Global
+PSIGEN Software
+Paradigm Solutions International
+eagle associates
+Azul Systems
+CISO Global (NAS: CISO)
+IntelliCentrics Global
+Vestwell
+Notion
+Snow Software
+Cpsg Partners
+e-Builder (Construction Program Management Solution)
+most brand development + advertising
+Embedded Insurance
+Bronto Software
+Connexion Point
+Amcom Software
+Kintera
+Adtelligent
+LINX (Financial Services)
+Amalto
+Accrete
+Cayan
+Door to Door Organics
+Dura Software
+Objectwin Technology
+SavvyMoney
+Amelicor
+Solutions By Design II
+MediaKind
+NexTraq
+Now Micro
+ImageMax
+Winshuttle
+A2Z Field Services
+Electronic Payments
+Market Traders Institute
+RedVision Systems
+Songtradr
+CircleCI
+FantasyBoss
+Exusia
+MRE Consulting
+Hillstone Environmental Partners
+BluJay Solutions
+Off the Hook Yachts
+state collection service
+Surebridge (Massachusetts)
+Shiftgig
+Innovyze
+Otis Technology
+Changepoint
+ChowNow
+Concurrent Real-Time
+EDJX
+Everyware
+Farelogix
+FatWire Software
+Flowplay
+InfoGenesis
+OpenVision Technologies
+Pantone
+Real Enterprise Synergy
+Telesis Technologies
+Voltus
+Storyfire
+Elevon (US)
+Elite Transit
+inthinc Technology Solutions
+Excelon
+Marigold Engage
+Centric Digital
+Signature Payments
+StoreFront.Net
+Tapas
+Datawatch
+Camile Products
+ivi
+EnerPath Services
+Logility
+ClickDimensions
+Lucid (Media and Information Services (B2B))
+RWS Life Sciences
+x+1
+Collab Asia
+GlobalEnglish
+Merced Systems
+Pineapple Payments
+Softpath System
+Buildium
+Meridian Imaging Solutions
+Systech International
+Pilot Network Services
+HPR
+ISCS
+MVDconnect
+Iovation
+Linxup
+zSpace
+Concord Servicing
+Domino Data Lab
+O C McDonald
+Portware
+Restaurant.com
+Shipwell
+The Ticket Group (Florida)
+AdminServer
+Spillman Technologies
+Kirchman
+LifeStreet
+Maximum Games
+Elite Pacific Properties
+Member Driven Technologies
+Novakid
+SimplePrints
+GlobalSCAPE
+Health Market Science
+Intradiem
+Total Expert
+Storage Networks
+TinyBuild (LON: TBLD)
+Media Services (Financial Software)
+4Net Software (PINX: RGBD)
+Newmarket International
+Extended Systems
+edocs
+6Connex
+Actifio
+Action Network (Information Services (B2C))
+Acumatica
+AltaReturn
+Applecart
+Arbortext
+Arena Solutions
+Autotask
+Beachfront Media
+Brightspot (Reston)
+C Space
+C2 Media.
+CardinalCommerce
+ClearLogic
+CloudCheckr
+Cobwebs Technologies
+Computech
+Computer Based Systems
+ConceptONE
+Corelight
+Cybera (Tennessee)
+Dart Distributing
+Digital Research
+Emporos Systems
+Ensurem
+EpiSci
+ESP/SurgeX
+Fountain (Human Capital Services)
+Freechat
+GlossGenius
+GreenPal
+Hexure
+Hily
+HireArt
+Homesnap
+id Software
+Industry West
+Integrated Software Systems
+Inter-American Data
+Jeeves
+Kaidara Software
+Kiosk Information Systems
+KMG Infotech
+Lightspeed Systems
+Logistyx Technologies
+Lohika (IT Consulting and Outsourcing)
+Maestro Health
+MAJORITY
+MindTickle
+National Business Group
+Network Instruments
+Newforma
+O'Neil & Associates
+Ocrolus
+Ozobot
+Pipefy
+Professional Computer Center
+Project Frog
+PTS Learning Systems
+Radiant Logic
+Rafter
+Rauland SoundCom Systems
+Rocketbook
+Savantis Solutions
+SheerID
+SOS Security (Acquired)
+Tablet (Hotel Booking Services)
+Taulia
+TIBCO Data Virtualization
+TOA Technologies
+TSheets.com
+Upserve
+Ustream
+Vricon
+W3BCLOUD
+Waze
+WonderMind
+Wondery
+Yellowbrick Data
+Yummy.com
+ZEFR (RightsID and ChannelID)
+Mainspring Communication
+HyreCar (PINX: HYREQ)
+FNX Capital Markets Solutions
+ConversionPoint Technologies
+Hard Drives Northwest
+Ulticom
+Perfect Commerce
+SMT (Broadcasting, Radio and Television)
+Bayone Solutions
+Inserso Corporation
+Digital Lighthouse
+Catapult Communications
+AtScale
+Cervalis
+ComGlobal Systems
+McAfee Institute
+Loffler
+Riversand
+Retail Technology Group
+Index Promotions
+Net Data Centers
+Reminder Media
+FolioDynamix
+RFIDeas
+Advantage Club
+VersaTech (Savage)
+Bock & Clark
+Capital Market Services (Retail Forex Business)
+Content IQ
+Devbridge
+Heitech Services Inc.
+Kitware
+Kiwiplan
+LabVantage Solutions
+Learner's Digest International
+PGOA Media
+Postscript
+Roadnet Technologies
+Spoutable
+Marimba
+BreakingPoint Systems
+Alive Hospice
+Fundation
+PatientPop
+Centralized Showing Service
+PAS Global
+Document Sciences
+Flat World Global Solutions
+Swift Navigation
+Questar Assessment
+TCP Software
+Digimarc (NAS: DMRC)
+CAM Commerce Solutions
+SeeVast
+Edmunds GovTech
+iContact
+Encompass Technologies
+Pixability
+Wombat Security Technologies
+On-Site
+Digihost Technology (TSX: DGHI)
+Carl Warren & Company
+Credible Insurance
+Blue Global
+Aeec LLC
+Spiceworks
+Dynamic Signal
+Tone It Up
+Audience Partners
+Blinker
+Brandmuscle
+Code Ninjas
+Electric
+Environmental Data Resources
+Iris Data Services
+Loftware
+Nova Development
+Obsidian Solutions Group
+S1 Community and Regional eFinance Solutions Group
+Swimply
+The Bouqs Co.
+Tulco (Insurance Practice)
+Universal
+Workscape
+BIS (Edmond)
+ESP Technologies
+Cambridge Select
+mclean mortgage
+Neogov
+Netronome
+OnPrem Solution Partners
+Strategic Financial Solutions Ny
+Solana
+Dimensional Innovations
+Sourcewell
+Applied Integrated Technologies
+Bolt
+Buxton
+CipherTechs
+Flatirons Solutions
+Leap Event Technology
+LookingGlass Cyber Solutions
+Netcracker Technology
+Rise Interactive
+RSI ID Technologies
+Russelectric
+SeekOut
+StumbleUpon
+Symphony Talent
+Kount
+Applied Data Finance
+Information Innovators
+Project Overlord Systems
+Vydia
+Demandforce
+Luna Data Solutions
+Singlewire Software
+Spruce Media
+Start.io
+Netmanage
+Adaytum Software
+Brightwing
+Ignite Media Solutions
+Virtuix
+EMA Design Automation
+Covario (Business/Productivity Software)
+Federated Media Publishing (Content Marketing Business)
+Iron Data Solutions
+Korbyt
+Luxer One
+Placester
+PowerObjects
+Future FinTech Group (NAS: FTFT)
+Revitas
+Lantek Systems
+FreeStar
+Blue Pumpkin Software
+Bridge (Media and Information Services )
+Sabio Holdings (TSX: SBIO)
+Infinity Massage Chairs
+Ocean Insight
+Coast to Coast Cellular
+Latitude Communications
+InstallShield Software
+ERIN Engineering and Research
+Segue Software
+MyWebGrocer
+Pathway Forensics
+Ampex Data Systems
+QGenda
+Paisley
+Conversica
+eSupply Systems
+EUR Systems
+Everytable
+Fillogic
+Gooten
+Highspot
+Jump shot
+Jumpshot (Marketing Analytics)
+LANSA (Downers Grove)
+Portfolio Insider
+Power Advocate
+RightWorks (San Jose)
+Softgate Systems
+TabaPay
+Tectonic (Business/Productivity Software)
+Velocidi
+Signature Government Solutions
+Adexa
+Veracity Engineering
+NetBrain Technologies
+ON Technology Corporation
+Women.com Networks
+Ics - Netsuite
+NextGen Leads
+Revlocal
+TeamSnap
+Computerized Facility Integration
+Eko (Monitoring Equipment)
+LegitScript
+Logiclink
+sawtst
+SpeechTrans
+Mortgagebot
+Clipix
+eOriginal
+3DO Company
+block.a
+Edgewater Automation
+Eximius Design
+Institutional Cash Distributors
+Singlesource Property Solutions LLC
+SmartBrief
+Handango
+StartEngine (GREY: STGC)
+Scivantage
+Advantor Systems
+Agris (Business/Productivity Software)
+Bluchip(Business/Productivity Software)
+Brat TV
+Cargofy
+CarParts Technologies
+Citrix Online
+CM First Group
+Confirmation
+CoreCard Software
+Cottonwood Vending
+Cyara
+Envase Technologies
+GovDelivery
+Greener Crop
+Groove Labs
+Howdy
+InfoMove
+JumpCrew
+Learningsmith
+LinkPlay
+Medcost
+Medium
+Moogsoft
+Noname Security
+Onapsis
+OpenPages
+Practice Resources
+RightScale
+Sightline Payments
+Solution Net Systems
+Stream Machine
+Summa (Database Software)
+SurePoint Technologies
+Switchfly
+WanderJaunt
+Clearedge It Solutions LLC
+Spur Staffing
+ImageX.com
+Marpai (PINX: MRAI)
+Catalyst Repository Systems
+Pulse Integration
+Paradyme Management
+Shardbound
+Cybersoft
+GeoLearning
+Radius Worldwide
+QuillBot
+Softdesk
+Steel City Media
+Karbon
+OrangeHRM
+Software Artistry
+Sagitec Solutions
+PrimeRevenue
+Celergo
+ContextWeb
+CRS Retail Systems
+Elemica
+Proforma Albrecht & Co.
+Rivet Software
+Tritech Communications
+MicroEdge
+datalab usa
+Digidesign
+Playd
+Audience Engine
+CheckAlt
+Digital Media Management
+DP Technology
+Front
+Green Mountain Technology
+Mythic Entertainment
+nexgen property solutions
+Paul Martin's American Grill
+WorkFusion
+Empyrean Benefit Solutions
+Intermarkets
+RainKing Software
+Showroom Logic
+Dynamic Logistix
+Lakeside Software
+Location3 Media
+Veracity Networks
+e-Emphasys Technologies
+GetSwift
+Uproar ( Entertainment Software)
+Cargomatic
+Collective Bias
+Delta Information Systems
+Individual.com
+ReadyTalk
+AlphaSmart
+Srs Labs
+Inovis
+MedAvante-ProPhase
+suna solutions
+VFA (Automation/Workflow Software)
+Tactics
+Charter Global (IT Services)
+ConvertKit
+CyberX (Network Management Software)
+MetaSource
+tekzenit Software Technologies, India
+Duke Basketball Camp
+Postini
+AudioEye (NAS: AEYE)
+Bluestone Software
+Kiteworks
+Leapfrog Systems
+Tivian XI
+Campaign Monitor
+FlexManage
+ProtectCell
+Gestalt(Other Commercial Products)
+3Play Media
+ArganoKeste
+Exhibitus
+Microtec Research
+Amify
+Buildertrend
+IDenticard Systems
+Invictus International Consulting
+Overhaul
+Periscope Holdings
+Siemplify
+SimVentions
+media prowler
+Izea (NAS: IZEA)
+Information Systems Laboratories
+Granite Systems
+SeaChange International (PINX: SEAC)
+GoSite
+Newline Interactive
+SupportSoft (Enterprise Business)
+Plateau Systems
+Confluence Technologies
+SecureInfo
+Appia
+Gimbal
+Madrivo
+Seclore
+Total Attorneys
+Applied Global Technologies
+Dealer Inspire
+Hoover's
+Lenel Systems International
+Infutor Data Solutions
+ReferralExchange
+Imaging Business Machines
+marketRx
+Decide (Adtech/Machine Learning)
+DIG.
+Search Technologies (United States)
+Trueffect
+Magic Find
+Cenduit
+Greensmith Energy
+Kassatex
+Mux
+Cyren (PINX: CYRNQ)
+Phase One Consulting Group
+CircleIt
+Borqs Technologies (PINX: BRQSF)
+Triad Guaranty (Information Technology and Operating Platform)
+ABC Technologies (Oregon)
+Apifiny
+CCC Network Systems
+Divvy (Draper)
+Future Three Software
+Gspairport
+Hawkes Learning
+Kingsisle Entertainment
+Knowify
+MTW Corporation
+Neoteris
+NXTsoft
+Smart Tuition
+Votiro
+Wistia
+Zeeto Group
+Bsquare
+DistroKid
+Operative(Acquired)
+teksavers
+Illuminate Education
+Protegrity USA
+SS&C Innovest
+Time To Pet
+TrustArc
+ZÅ«m
+Vertro
+Kingland Systems
+Freight Management
+Gimmal
+GPS Insight
+TriSource Solutions
+AdBrite
+Excel Impact
+GPS Trackit
+Scorpion Technologies
+Simtechinc
+HELiOS Exchange
+DecisionNext
+Flybuy
+Ingo Money
+Emplicit
+Perseus Asset Management
+Marcantonini Srl
+Spectra Systems (LON: SPSY)
+Telos Consulting Services
+Knock (Software)
+Diablo Media
+Quickoffice
+Resourcesoft
+SoftImage
+Advicent Solutions
+Halo Technology Holdings
+Myricom
+WhisperText
+S Wind-Up
+Animoto
+Insignia Technology Services
+TekStream Solutions
+Texas Security Bank
+Sidekick Home
+PaymentOne
+SharpSpring
+Maryville Consulting Group
+[24]7.ai
+Atypon Systems
+BCC Software
+Enavate
+InfoSec (Educational Software)
+Intersys Consulting
+Mantas
+Mapp Digital
+Municipal Finance & Services
+Peloton Consulting Group
+WorkOtter
+Buddy Media
+Matrix Financial Solutions
+The Mcgee Group
+Broadvox (Cloud Services Business)
+Pivot3
+IDW Media Holdings (PINX: IDWM)
+Jeeng
+PlanetOne Communications
+Qubole
+Kanopy
+DataSynapse
+Smartsoft International
+Extend
+SirionLabs
+Verigent
+Applied Innovation
+AccuData Integrated Marketing (Illinois)
+PrecisionIR
+Smith Micro Software (NAS: SMSI)
+MBH Solutions
+Sentek Global
+Waterford.org
+FastSpring
+Groundfloor
+Recondo
+Stratix Systems
+vAuto
+Greenphire
+Aduro
+Arbor Networks
+GrandPad
+LoKation Real Estate
+Ondot (Financial Software)
+Snap! Mobile
+Teamcarney
+Snapmobl
+Johnston McLamb Case Solutions
+Exeter Information Technology Services
+Profitero
+LeoLabs
+Symplicity
+6 River Systems
+Aarki
+AddThis
+American Teleconferencing Services
+Amount
+Amtel Software
+Animaker
+Applitools
+Aravo
+ArchiveSocial
+Asita Technologies
+Aspire Financial Services
+Asurity
+Automated Trading Desk
+AutoUSA
+Bevy (Business/Productivity Software)
+Bigfoot Interactive
+Brite Computers
+Brocade (Virtual Traffic Manager)
+Caperton Furnitureworks
+CapitalStream
+Cardiff Software
+ChargeSavvy
+Chive Media Group
+ClassDojo
+COADE
+Cognotion
+Colite
+Communicado
+Convergence Technology Consulting
+Core Business Technologies
+Curtsy
+DataVisor
+Decisions (Virginia Beach)
+Defense Unicorns
+Echo360 (Youngstown)
+EmpireCovers
+Enquero
+Evive Health
+Freshgogo
+FrontRow (Educational Software)
+Gage Marketing Group
+Gearsupply
+Grade.us
+Granitar
+Guavus
+HydroPoint
+Imaginova
+Inovonics
+Invideo
+It's Just Lunch
+Jasc Software
+JumpStart Games
+Lessonly
+LQD Business Finance
+MarketPlace Homes
+MATTIO Communications
+MCCi
+Mei Technology
+MicroCal
+Missionstaff
+Mobclix
+Moonshot Brands (Consulting Services (B2B))
+myKaarma
+MYTA Technologies
+Parcel Pending
+Pay By Group
+PerBlue
+PERQ
+Polaris Wireless
+propertyforce
+Quantori
+QuestionPro
+Quip (Business/Productivity Software)
+Retool
+RollKall (A/M)
+Sauce Labs
+Select Business Solutions
+ShipHero
+SigmaTEK Systems
+Skynamo
+Snappy
+Softscape
+Solera Networks
+SparkToro
+Spoken (Business/Productivity Software)
+StreamYard
+Swimlane
+Taykey
+Tickeri
+Tifin
+Tomorrow.io
+TraceGains
+Trendnation
+Uniqus
+Wizeline
+Wyde
+ServicePower
+Chameleon Integrated Services
+Computer Aided Technology
+Customer.io
+jsl technologies
+Instant Immersion
+Edge One
+Issuer Direct (ASE: ISDR)
+Claris (Software Development Applications)
+Calico Commerce
+Workplace Healing
+TruSecure
+CHIPS Technology Group
+Long Wave
+Xtek Partners
+Talon/lpe
+Sajan
+Employment Screening Services
+BrightTALK
+Exostar
+NIS America
+EcoSys Management
+Articulate
+MaxOne
+Proficio (San Diego)
+Catchpoint
+Magnit (USA)
+Elite Merchant Solutions
+Favor
+HighWire Press
+The CBORD Group
+Cr Architecture + Design
+Element Payment Services
+Pantheon Systems Platform
+Rev (Business/Productivity Software)
+SCO Group (UNIX Assets)
+Ultra Electronics 3eTI
+Voxtur Analytics (TSX: VXTR)
+Applied Data Systems
+Async (Movies, Music and Entertainment)
+BankCard USA Merchant Services
+Bizzabo
+Chiru Labs
+Customertimes
+IntelliTools
+Kentrox
+Litera
+MBO Partners
+NorthPoint Solutions
+Paladion
+PeopleFinders
+Performix Technologies
+Techrizon
+TRE Financial Services
+Vrtify
+Wiser Solutions
+CallTower
+Paciolan
+Starlims Technologies
+GoEngineer
+Information Strategies Group
+Transfinder
+united wall systems
+Pharsight
+D2iQ
+KEO World
+PROTEUS Technologies
+Shoptech Industrial Software
+Milestone (Media and Information Services)
+Binary Tree
+Mortgage.com
+Actsoft
+San Diego Sign Company
+Submittable
+Epi-Use
+Embedded Support Tools
+Procuri
+Lyris
+Americollect
+ArrowStream
+Booksy
+Cost Center
+InnoPath
+Learn.com
+KLoBot
+Gateway Ticketing Systems
+Trackimo
+Escalate Retail
+Alto
+Clutter
+ASI Mining
+High Availability
+Civix
+Pipeworks
+Raptor Systems
+Williamsburg Enterprises
+sussman Education
+Vcloud Tech
+Aurora Systems Consulting
+170 Systems
+Infolob
+TeamQuest
+CoreLogic Dorado
+Asure Software (Workspace Management Business)
+AustinGIS
+Bayforce
+CompuGroup Medical SC
+Datacert
+Dray Alliance
+Eastern Acoustic Works
+Engine Yard
+Examity
+FBSciences
+Gatekeeper Systems (Foothill Ranch)
+Innovative Concepts
+ITA Software
+LeafLink
+Macola Software
+Midi Health
+Nielsen Marketing Cloud
+NTT Application Security
+Oncue
+RecoverDebt.com
+Scalefast
+Selery
+Teledyne Monitor Labs
+Tin Roof Software
+Unique Vintage
+Visionary Healthware
+Zolve
+Pcc Network Solutions
+33Across
+BidFTA
+Computer Identics
+ActiveViam
+SRAX (PINX: SRAX)
+Priorityworldwide
+Monaghan Bros
+Vicon Industries (PINX: VCON)
+Evans & Sutherland
+Appreciation Financial
+Medical Present Value
+Punchh
+Metavante Lending Solutions
+Primus Knowledge Solutions
+Laborwrks Industrial Staffing
+Mavcon
+Omelet
+Resource Innovations
+HipCricket
+SouthData
+Bowne GCom2 Solutions
+Cambridge Mobile Telematics
+Giphy Capture
+June Media
+Philo Media
+TravelNet Solutions
+Wall Street On Demand
+Notified
+Tripp
+Adara
+ExpertVoice
+RDG Planning & Design
+Akoustis Technologies (NAS: AKTS)
+MicroBilt
+Location Labs
+Contour
+CoverHound
+Noodle (Educational Software)
+Rabbit Semiconductor
+Skytap
+nCircle Network Security
+BlueStacks
+Garber Electrical Contractors Inc.
+iostudio
+OpenExchange
+Sundance Spas
+Apc Postal Logistics
+Optio Software
+Ghg
+Knova Software
+Airbiquity
+Avco Consulting Inc
+Cody
+Constellation West
+GoGrid
+Tekla Research Inc
+High Roller Technologies (ASE: ROLR)
+Athena Bitcoin Global
+Business Engine
+Clarity Consulting
+Cloudwick
+Coderio
+Discover Books
+Drift (Boston)
+Ensenta
+FinFit
+Friend.tech
+Gearbubble
+H. B. Maynard & Company
+House Advantage
+Lumaverse Technologies
+Marshall & Swift/ Boeckh
+Omaze
+Openwave Mobility
+PureWrx
+Quizizz
+SchoolMessenger
+Through-Channel
+TransNational Payments
+WiseNut
+Tideworks Technology
+Mangrove Software
+Ncic Inmate Phone Services Inc
+Opensymmetry
+Rosebud PLM
+BlueKai
+Workstream
+AudienceX
+Springbig Holdings (PINX: SBIG)
+Invicti Security
+Accu-Time Systems
+Acuity Solutions
+Intrepid Learning Solutions
+ParkMobile
+ProPay
+Space Micro
+POSaBIT (CNQ: PBIT)
+BookClub
+Aegis Lightwave
+AviontÃ© Staffing Software
+Boost Payment Solutions
+Businessolver
+Emergitech
+Federated IT
+Peridot Solutions
+VariQ
+Continuity Global Solutions
+BMC Group
+AppNeta
+Cubix (IT Consulting and Outsourcing)
+Diaspark
+Gravitas Technology Services
+WorldNow
+Sanovi Technologies
+Horizon Software International
+PureWorks
+Bombora
+SolArc
+Broadway Technology
+Credibly
+shopKick
+Stonevault
+Service Management USA
+Security First
+Grant Street Group
+First Merchants Bancard Services
+Act!
+DoublePositive
+ExpertPlan
+installnet international
+Quake Global
+Strata Decision Technology
+Tal Consolidated
+Core Security (Acquired 2015)
+Aspirant Consulting
+AustinCSI
+Seward Community Co-op
+Streamline.com
+The Insitu Group
+Skout
+Astea International
+ACERTUS
+Advanced Cabling Systems
+Aldon Computer Group
+Alpine IQ
+AMC Bridge
+ATopTech
+Attivio
+Biosero
+Candywriter
+ClearScale
+CPT Network Solutions
+Crossrope
+Emphasys Software
+Joany
+Ninety (Georgia)
+Stonebridge Consulting
+Taziki Mediterranean Cafe
+Top of Mind Networks
+ThirdChannel
+Amobee
+Isgn
+Powerway
+CXignited
+Community Playthings Uk
+EzFill Holdings (NAS: EZFL)
+Boost Engagement
+Adwerx
+Award Software
+DashBid
+Integrate.com
+Laketown Electric
+Service 800
+StreamServe
+Cerner DHT
+STS Education (Education and Training Services)
+Talisma
+PerTrac CMS
+RÅti
+Virtustream
+UBICS
+Hagerman & Company
+PatientFi
+Havas Formula
+HCGI Hartford
+Metrowerks
+Optimum Employer Solutions
+Unissant
+Pro After
+ACH Direct
+Albridge Solutions
+Meteorix
+Pixeom
+SambaNova Systems
+Value Payment Systems
+LearningMate Solutions
+Praxis Engineering
+VerifyMe (NAS: VRME)
+Alps Controls
+Janus Worldwide
+Pinnacle Hospitality Systems
+PowerReviews
+Selerix Systems
+Sonian
+TrendKite
+Zinier
+recon logistics
+A Cloud Guru
+Newport Systems
+spectrum merchant services
+GeniusWorks
+Authentec (Embedded Security Solutions)
+Branded Online
+SMARTe (Business/Productivity Software)
+Covergence
+GAMEVIL
+Citizant
+Datasys
+LeadPile
+Sketchy
+Voray
+Yashi
+Zudy
+VerticalResponse
+CloudFactory
+Liberated Syndication
+ACOM Systems
+Bai (Other Commercial Services)
+Cumulus (Communications and Networking)
+Faithlife
+InsideSales
+Livestream
+Sprout (Charlotte)
+Zipline
+FantasySports.com
+Acreto
+Super League Gaming (NAS: SLE)
+37signals
+4th source
+Advanced Technology Solutions Group
+Amphitrite Digital
+Appcast
+AutoAlert
+BankWare
+Beautycon
+Bionic Solution
+BizCents
+Blueprint Registry
+Booker (Business/Productivity Software)
+Brandlive
+Bromium
+Career Now Brands
+Chemical Safety
+Clickup
+Cloud Academy
+CloudFabrix
+Coffee Meets Bagel
+Contrast Security
+DataSpan
+defi Solutions
+DocuPhase
+ElevenLabs
+Evite
+FaceTec
+Fastcase
+GetInsured
+Impervious (Application Software)
+Imprint (Financial Software)
+Instancy
+Intetics
+Invodo
+IPD Solutions
+J&B Software
+JOOR
+KBM Data Services
+Kneron
+Lemonlight
+Lewtan Technologies
+LucidLink
+M1 (Financial Software)
+Meetup
+MetaVerseBooks
+MicroLink (Vienna)
+Mixbook
+Motiv
+n2y
+Olimp
+Outsell
+Payment Transaction Solutions
+Performance Assessment Network
+PowerChord
+Precision Computer Systems
+PreVision Marketing
+Quantitative Brokers
+Razorgator
+Recurly
+Reed Group
+RICS Software
+RTS
+SAP Fieldglass
+Savi Technology
+SencorpWhite
+SentiLink
+Shavlik Technologies
+ShowingTime
+Sia Scotch Whisky
+Simplify Workforce
+Skillable
+Slice Technologies (Business/Productivity Software)
+Social Tables
+Socrata
+StrongArm Tech
+Superside
+Suzy
+TaskRabbit
+Technology Builders
+Terra Technology
+Trepp
+Ultimus
+Unifyr
+Uniguest
+Video King
+VillageVines
+XOS Digital
+Zero Hash
+ZestyAI
+Estimation
+Spear Technologies
+SAVO Group
+Bitnine (KRX: 357880)
+Adventa Control Technologies
+CSG Forte Payments
+Skyword
+GuideSpark
+Liquidus
+ARGUS Software
+Computer Technology Solutions ( IT Consulting and Outsourcing)
+Dynamic Systems Technology Inc. (dystech)
+Fulltime Software
+Genmark Automation
+Stannp
+Genealogy.com
+Skire
+Soleo Communications
+West Kentucky Rural Telephone Cooperative Corporation
+ANGEL Learning
+Prolink Holdings
+epicenter network
+FIXD
+Optimism
+Sentar (Network Management Software)
+Tango Card
+Determine
+Opsahl Dawson
+Curse
+Xchange (Business/Productivity Software)
+Vicon Machinery
+Alogent
+DMSi
+ECRS ()
+FunMobility
+Innovative Systems (California)
+Seal Software
+Trextel
+Behavox
+Elastic Networks
+Integrated Computer Solutions
+IronNet
+GAINSystems
+Global Financial Aid Services
+Lmc Advisors
+NetBase Quid
+Quid
+GetThere
+C Technologies
+Loop Media (PINX: LPTV)
+3Cinteractive
+Cadre Information Security
+Caroo
+Consultedge
+Swanktek
+TGV Software
+Alpha NetSolutions
+SLI Systems
+HomeExchange
+A5
+CollegeNET
+Exceed Corp
+Filevine
+VitalStream
+Allegro Development
+Anametric
+Commerce Signals
+Diebold (Card Systems Division, Campus Card System)
+eco-chic consignments
+Fi-Tek
+GrowFlare
+Guru.com
+Humach
+Incorta
+INNCOM International
+Kodak Imaging Network
+Kwikee Products Company
+LAUNCH Technical Workforce Solutions
+LinkSquares
+MeetMe
+MoviePass
+Objectiva Software Solutions
+Observe.AI
+Onera (San Francisco)
+Rival Technology.
+Rock Content
+Upland Altify
+Wire Stone
+Woodhull LLC
+Corero Network Security (LON: CNS)
+Q Analysts
+ScriptLogic
+AS Services
+Emerge Digital Group
+Emergent Network Solutions
+Government Contract Solutions
+GSPANN
+RTL Networks
+Exstream Software
+Atlantic Metro
+Nexgen Wireless
+Elmira Savings Bank
+OpenAsset
+NetWolves
+BitSight
+Ironside
+Lumos Labs
+Sales Partnerships
+Saxon Global
+Daegis
+Ace Van & Storage
+Aseptia
+GemStone Systems
+LeaseAccelerator
+Maxymiser
+Omnidian
+SmartBiz
+Vagaro
+Guru.com (Acquired 2003)
+Pilgrim Quality Solutions
+Livemercial
+Airship AI Holdings (NAS: AISP)
+AgileAssets
+Bluware
+Clever Devices
+Receptiv
+ATAC
+Saint Consulting Group
+Spotfire
+Quontic
+The Townsend Hotel
+TicketManager
+CyberCash
+ArdentMC
+embedtek
+Fullscope
+SYNQ3
+ThreatConnect
+Cloud9 Technologies
+Iron Mountain (Connected)
+Atlantic Energy
+Advanced Executive Sales
+Be Free
+International TechneGroup
+automotiveMastermind
+NinthDecimal
+QStream
+JangoMail.com
+Higher Ground Education
+Seer Interactive
+Themesoft Inc.
+TradeKing
+Broadbean
+Axcient (Acquired)
+Auspex Systems
+Agio
+Applied Voice & Speech Technologies
+Avant Healthcare Professionals
+Core Security
+Daegis (Acquired 2010)
+Feathr
+Freight Farms
+G2 Ops
+Genilogix
+HouseCanary
+Minuteman Security and Life Safety
+NASDAQ (U.S. Fixed Income Electronic Trading Platform)
+Netlify
+OrderMotion
+SurePayroll
+TeleMed2U
+GrammaTech
+Conzrt.io
+GSSI
+Callsign
+Aperture Technologies
+Approva (Application Software)
+InfoWorks (Nashville)
+SellPoints
+The Chief Information Group Inc.
+Image API
+Biosym Technologies
+ViaBill
+Datafied
+Clarity Visual Systems
